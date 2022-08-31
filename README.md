@@ -34,6 +34,8 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ### Operating systems
 
 - Opus: An OS which includes a GUI, an app store, and many APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
+- Phoenix: An OS which emphasises modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
+    - Phoenix is currently in alpha.
 
 ### Mod-specific programs
 
