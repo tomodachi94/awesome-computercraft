@@ -26,6 +26,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Anavrins' hashing functions: Supports hashing to SHA-256, HMAC, and PBKDF2. **[Pastebin](https://pastebin.com/6UV4qfNF)**
     - There is a variant for versions of ComputerCraft without the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
+- ecc.lua: Implements elliptic curve cryptography. **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 
 ### Fun
 
