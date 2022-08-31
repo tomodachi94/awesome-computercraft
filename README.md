@@ -62,12 +62,22 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - VSCode Extensions for ComputerCraft: Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server. **[Get](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) - [Source](https://github.com/Lemmmy/computercraft-extension-pack)**
 - CraftOS-VSCode: Extension for manipulating and running programs via CraftOS-PC in VSCode. **[Get](https://marketplace.visualstudio.com/items?itemName=JackMacWindows.craftos-pc) - [Docs](https://www.craftos-pc.cc/docs/extension) - [Source](https://github.com/MCJack123/vscode-craftos-pc)**
 
+## Literature
+### Essays
+
+- [JackMacWindows's essay on ComputerCraft OSes](https://gist.github.com/MCJack123/4b2bca21bdc0cf5c67ce7177326c2154): Contains suggestions, discouragement, and encouragement for building a proper operating system.
+- [JackMacWindows's essay on sane APIs](https://gist.github.com/MCJack123/39ac0847579b3676cc098aca5860c758): Has suggestions for making your APIs easy to use.
+
+### Tutorials
+
+- Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
+- [Bomb Bloke's _Guide to Coroutines_](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
+
 ## Resources
 
 - [CC's forums](https://computercraft.info/forums2): An extremely valuable resource, filled with tutorials and programs.
 - [CC:T's forums](https://forums.computercraft.cc): Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe): A Discord server for getting help with programming in CC and CC:T.
 - [Tweaked.cc documentation](https://tweaked.cc): Contains documentation for most methods in CC and CC:T.
-- [JackMacWindow's essay on ComputerCraft OSes](https://gist.github.com/MCJack123/4b2bca21bdc0cf5c67ce7177326c2154): Contains suggestions, discouragement, and encouragement for building a proper operating system.
 - [Lua's manual](https://www.lua.org/manual/): Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
 - [CC's original wiki](http://www.computercraft.info/wiki/Main_Page): Contains some useful information. Most of it is on Tweaked.cc instead, so use that.
