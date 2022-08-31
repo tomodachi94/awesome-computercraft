@@ -4,13 +4,16 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 **Note on acronyms: CC is ComputerCraft, CC:T is ComputerCraft: Tweaked, and CC:R is ComputerCraft: Restitched.**
 
 ## Mods
-### Forge and derivitives
+### ComputerCraft mods
 
 - ComputerCraft: A mod which adds computers to allow execution of Lua programs. **[Web](http://computercraft.info) - [Source](https://githun.com/dan200/ComputerCraft) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/computercraft)**
 - ComputerCraft: Tweaked: A fork of the original ComputerCraft for modern versions of Minecraft. **[Web](https://computercraft.cc) - [Source](https://github.com/cc-tweaked/CC-Tweaked) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)**
+- ComputerCraft: Restitched: A set of patches for CC:T that allow running it on Fabric. **[Source](https://github.com/cc-tweaked/cc-restitched) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched)**
+
+### Extensions
+
 - Computronics: A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. **[Source](https://github.com/Vexatos/Computronics) - [Docs](https://wiki.vexatos.com/wiki:computronics)**
 - Plethora: A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. **[Source](https://github.com/SquidDev-CC/plethora) - [CurseForge](https://minecraft.curseforge.com/projects/plethora-peripherals) - [Docs](https://plethora.madefor.cc)**
-- ComputerCraft: Restitched: A set of patches for CC:T that allow running it on Fabric. **[Source](https://github.com/cc-tweaked/cc-restitched) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched)**
 
 ## Programs (Lua)
 ### Utility
@@ -24,7 +27,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - json.lua: A generic lightweight JSON parser. **[Source](https://github.com/rxi/json.lua)**
 - CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
 - Anavrins' hashing functions: Supports hashing to SHA-256, HMAC, and PBKDF2. **[Pastebin](https://pastebin.com/6UV4qfNF)**
-    - There is a variant for versions of ComputerCraft without the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
+    - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - ecc.lua: Implements elliptic curve cryptography. **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 
@@ -34,7 +37,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Operating systems
 
-- Opus: An OS which includes a GUI, an app store, and many APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
+- Opus: An OS which includes a GUI, an app store, and many system-related APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
 - Phoenix: An OS which emphasises modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
     - Phoenix is currently in alpha.
 
@@ -54,7 +57,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs) }**
 - CCEmuX: A CC and CC:T emulator which directly uses those mods' implementations of LuaJ and the BIOS. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
 
-### Integrations with other programs
+### Plugins
 
 - VSCode Extensions for ComputerCraft: Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server. **[Get](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) - [Source](https://github.com/Lemmmy/computercraft-extension-pack)**
 - CraftOS-VSCode: Extension for manipulating and running programs via CraftOS-PC in VSCode. **[Get](https://marketplace.visualstudio.com/items?itemName=JackMacWindows.craftos-pc) - [Docs](https://www.craftos-pc.cc/docs/extension) - [Source](https://github.com/MCJack123/vscode-craftos-pc)**
