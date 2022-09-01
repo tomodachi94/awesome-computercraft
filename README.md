@@ -54,6 +54,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 - ReactorControl and TurbineControl: Automatic management of reactors and turbines of Big Reactors. **[Pastebin](https://pastebin.com/p4zeq7Ma)**
     - **Note: This program uses the `parallels` API which could cause it to break. [A patch](https://pastebin.com/2ZrbnH5w) has been developed to fix this.**
+- DraconicControl: Allows controlling Draconic Evolution's Draconic Reactor from a computer. **[Pastebin](https://pastebin.com/UqVHTht5)**
 
 ## Non-Lua programs
 
