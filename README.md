@@ -1,6 +1,8 @@
 # Awesome ComputerCraft
 Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
+***If you are trying to download ComputerCraft, you are in the wrong place. Go to https://www.curseforge.com/minecraft/mc-mods/cc-tweaked or https://www.curseforge.com/minecraft/mc-mods/cc-restitched instead.***
+
 **Note on acronyms: CC is ComputerCraft, CC:T is ComputerCraft: Tweaked, and CC:R is ComputerCraft: Restitched.**
 
 ## Mods
