@@ -77,6 +77,10 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
 - [Bomb Bloke's _Guide to Coroutines_](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
 
+### Charts and tables
+
+- [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png) and [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png): Contains decimal and hex mappings to ComputerCraft font characters.
+
 ## Resources
 
 - [Tweaked.cc documentation](https://tweaked.cc): Contains documentation for most methods in CC and CC:T.
