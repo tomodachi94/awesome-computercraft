@@ -41,6 +41,8 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Opus: An OS which includes a GUI, an app store, and many system-related APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
 - Phoenix: An OS which emphasises modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
     - Phoenix is currently in alpha.
+- LevelOS: A modern GUI operating system intended to mimic Windows. **[Demo](https://www.youtube.com/watch?v=F29vH8W7ZjE) - [Install](http://install.leveloper.cc) - [Discord](https://discord.gg/vBsjGqy99U)**
+- Recrafted: A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design." **[Source](https://github.com/ocawesome101/recrafted)**
 
 ### Mod-specific programs
 
