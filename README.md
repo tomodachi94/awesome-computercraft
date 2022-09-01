@@ -6,9 +6,9 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ## Mods
 ### ComputerCraft mods
 
-- ComputerCraft: A mod which adds computers to allow execution of Lua programs. **[Web](http://computercraft.info) - [Source](https://githun.com/dan200/ComputerCraft) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/computercraft)**
 - ComputerCraft: Tweaked: A fork of the original ComputerCraft for modern versions of Minecraft. **[Web](https://computercraft.cc) - [Source](https://github.com/cc-tweaked/CC-Tweaked) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)**
 - ComputerCraft: Restitched: A set of patches for CC:T that allow running it on Fabric. **[Source](https://github.com/cc-tweaked/cc-restitched) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched)**
+- ComputerCraft: A mod which adds computers to allow execution of Lua programs. *You probably want ComputerCraft: Tweaked or ComputerCraft: Restitched.* **[Web](http://computercraft.info) - [Source](https://githun.com/dan200/ComputerCraft) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/computercraft)**
 
 ### Extensions
 
@@ -24,7 +24,6 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Library
 
-- json.lua: A generic lightweight JSON parser. **[Source](https://github.com/rxi/json.lua)**
 - CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
 - Anavrins' hashing functions: Supports hashing to SHA-256, HMAC, and PBKDF2. **[Pastebin](https://pastebin.com/6UV4qfNF)**
     - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
@@ -75,9 +74,9 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ## Resources
 
+- [Tweaked.cc documentation](https://tweaked.cc): Contains documentation for most methods in CC and CC:T.
 - [CC's forums](https://computercraft.info/forums2): An extremely valuable resource, filled with tutorials and programs.
 - [CC:T's forums](https://forums.computercraft.cc): Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe): A Discord server for getting help with programming in CC and CC:T.
-- [Tweaked.cc documentation](https://tweaked.cc): Contains documentation for most methods in CC and CC:T.
 - [Lua's manual](https://www.lua.org/manual/): Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
-- [CC's original wiki](http://www.computercraft.info/wiki/Main_Page): Contains some useful information. Most of it is on Tweaked.cc instead, so use that.
+- ~~[CC's original wiki](http://www.computercraft.info/wiki/Main_Page): Contains some useful legacy information.~ **Considered deprecated by modern standards.**
