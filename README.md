@@ -63,7 +63,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ### Emulators
 
 - CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs) }**
-- CCEmuX: A CC and CC:T emulator which directly runs the mod jars themselves. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
+- CCEmuX: A CC and CC:T emulator which executes the mods directly. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
 
 ### Plugins
 
