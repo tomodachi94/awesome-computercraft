@@ -53,7 +53,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 > Note: This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
 
 - ReactorControl and TurbineControl: Automatic management of reactors and turbines in Big Reactors. **[Pastebin](https://pastebin.com/p4zeq7Ma)**
-    - **Note: This program uses the `parallels` API which could cause it to break. [A patch](https://pastebin.com/2ZrbnH5w) has been developed to fix this.**
+    - **Note: This program uses the `parallel` API which could cause it to break. [A patch](https://pastebin.com/2ZrbnH5w) has been developed to fix this.**
 - DraconicControl: Allows controlling Draconic Evolution's Draconic Reactor from a computer. **[Pastebin](https://pastebin.com/UqVHTht5)**
 
 ## Non-Lua programs
@@ -63,7 +63,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ### Emulators
 
 - CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs) }**
-- CCEmuX: A CC and CC:T emulator which directly uses those mods' implementations of LuaJ and the BIOS. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
+- CCEmuX: A CC and CC:T emulator which executes the mods directly. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
 
 ### Plugins
 
@@ -87,7 +87,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Charts and tables
 
-- [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png) and [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png): Contains decimal and hex mappings to ComputerCraft font characters.
+- [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
 
 ## Resources
 
