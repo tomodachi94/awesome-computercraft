@@ -1,4 +1,4 @@
-## Resources
+# Resources
 
 - [Tweaked.cc documentation](https://tweaked.cc): Contains documentation for most methods in CC and CC:T.
 - [CC's forums](https://computercraft.info/forums2): An extremely valuable resource, filled with tutorials and programs.
