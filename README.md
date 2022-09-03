@@ -40,6 +40,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - ecc.lua: Implements elliptic curve cryptography. **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 - GuiH: A powerful GUI and graphics library. **[Source](https://github.com/9551-Dev/GuiH) - [Docs](https://guih.madefor.cc/)**
+- Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
 
 ### Fun
 
