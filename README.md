@@ -29,6 +29,8 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Mildly Better Shell (MBS): An improved shell that includes scrollback and improved resolution of completions. **[Source](https://github.com/SquidDev-CC/mbs)**
 - netshell: Access a computer's shell from another computer. **[Source](https://github.com/lyqyd/cc-netshell)**
 - LuaIDE: A full-fledged IDE for editing Lua files in-game. **[Pastebin](https://pastebin.com/vyAZc6tJ) - [Source](https://github.com/benanders/LuaIDE) - [Docs](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/)**
+- Consult: A text editor emphasizing ease of use and compatibility with many systems. **[Source](https://github.com/1Turtle/CONSULT) - [Docs](https://consult.madefor.cc)**
+    - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) is a fork of Consult for Recrafted systems.
 
 ### Library
 
