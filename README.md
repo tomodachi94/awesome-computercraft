@@ -83,12 +83,12 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - [JackMacWindows's essay on sane APIs](https://gist.github.com/MCJack123/39ac0847579b3676cc098aca5860c758): Has suggestions for making your APIs easy to use.
 
 ### Tutorials
-### Basics
+#### Basics
 - Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
 - [Direwolf20's tutorials](https://www.youtube.com/watch?v=wrUHUhfCY5A): A series of videos explaining the basics of ComputerCraft programming. 
 - [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk): See above.
 
-### Moderate or advanced
+#### Moderate or advanced
 - [Bomb Bloke's _Guide to Coroutines_](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
 
 ### Charts and tables
