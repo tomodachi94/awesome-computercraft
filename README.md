@@ -8,6 +8,8 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 **Note on acronyms: CC is ComputerCraft, CC:T is ComputerCraft: Tweaked, and CC:R is ComputerCraft: Restitched.**
 
+*If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).*
+
 ## Mods
 ### ComputerCraft mods
 
