@@ -19,53 +19,53 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Add-on mods
 
+- Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://peaceful-nobel-03befe.netlify.app)**
 - Computronics: A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. **[Source](https://github.com/Vexatos/Computronics) - [Docs](https://wiki.vexatos.com/wiki:computronics)**
 - Plethora: A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. **[Source](https://github.com/SquidDev-CC/plethora) - [CurseForge](https://minecraft.curseforge.com/projects/plethora-peripherals) - [Docs](https://plethora.madefor.cc)**
-- Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://peaceful-nobel-03befe.netlify.app)**
 
 ## Programs (Lua)
 ### Utility
 
-- Mildly Better Shell (MBS): An improved shell that includes scrollback and improved resolution of completions. **[Source](https://github.com/SquidDev-CC/mbs)**
 - ComputerCraft Advanced Shell (cash): A Bourne-compatible shell for ComputerCraft. **[Source](https://github.com/MCJack123/cash) - [Docs](https://cash.madefor.cc)**
-- netshell: Access a computer's shell from another computer. **[Source](https://github.com/lyqyd/cc-netshell)**
-- rawshell: A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more. **[Source](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc)**
-- gist: A GitHub Gist download/upload program which aims to extend the built-in pastebin program, but for Gists. **[Pastebin](https://pastebin.com/zSLPYpqs) - **
-- LuaIDE: A full-fledged IDE for editing Lua files in-game. **[Pastebin](https://pastebin.com/vyAZc6tJ) - [Source](https://github.com/benanders/LuaIDE) - [Docs](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/)**
 - Consult: A text editor emphasizing ease of use and compatibility with many systems. **[Source](https://github.com/1Turtle/CONSULT) - [Docs](https://consult.madefor.cc)**
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) is a fork of Consult for Recrafted systems.
+- gist: A GitHub Gist download/upload program which aims to extend the built-in pastebin program, but for Gists. **[Pastebin](https://pastebin.com/zSLPYpqs) - **
+- LuaIDE: A full-fledged IDE for editing Lua files in-game. **[Pastebin](https://pastebin.com/vyAZc6tJ) - [Source](https://github.com/benanders/LuaIDE) - [Docs](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/)**
+- Mildly Better Shell (MBS): An improved shell that includes scrollback and improved resolution of completions. **[Source](https://github.com/SquidDev-CC/mbs)**
 - ModemShark: Modem packet sniffer with a simple UI. **[Source](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8)**
+- netshell: Access a computer's shell from another computer. **[Source](https://github.com/lyqyd/cc-netshell)**
+- rawshell: A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more. **[Source](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc)**
 
 ### Library
 
-- CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
 - Anavrins' hashing functions: Supports hashing to SHA-256, HMAC, and PBKDF2. **[Pastebin](https://pastebin.com/6UV4qfNF)**
     - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
-- Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
+- AUKit: The quintessential audio processing and conversion library for ComputerCraft. **[Source](https://github.com/MCJack123/AUKit) - [Docs](https://mcjack123.github.io/AUKit/)**
+- Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
+- CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
+- dbprotect: A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions. **[Source](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363)**
 - ecc.lua: Implements elliptic curve cryptography. **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 - GuiH: A powerful GUI and graphics library. **[Source](https://github.com/9551-Dev/GuiH) - [Docs](https://guih.madefor.cc/)**
-- Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
-- AUKit: The quintessential audio processing and conversion library for ComputerCraft. **[Source](https://github.com/MCJack123/AUKit) - [Docs](https://mcjack123.github.io/AUKit/)**
-- dbprotect: A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions. **[Source](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363)**
+- Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - RedRun: A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs. **[Source](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)**
 - VeriCode: Provides simple codesigning functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
 
 ### Fun
 
-- Musicify: A lightweight client for playing music from Computronics tape drives. **[Source](https://github.com/knijin/musicify)**
-- tracc: An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](https://github.com/MCJack123/tracc/tree/playAudio)**
 - AUKit austream: Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC. **[Source](https://github.com/MCJack123/AUKit/blob/master/austream.lua)**
-- YahtCC: An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game. **[Source](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e)**
 - battleship: An implementation of the popular two-player game *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*. **[Source](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4)**
 - LuaGB: A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC. **[Source](https://github.com/MCJack123/LuaGB)**
 - lunatic86: A port of an 8086 PC emulator for ComputerCraft. **[Source](https://github.com/MCJack123/lunatic86)**
+- Musicify: A lightweight client for playing music from Computronics tape drives. **[Source](https://github.com/knijin/musicify)**
+- tracc: An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](https://github.com/MCJack123/tracc/tree/playAudio)**
+- YahtCC: An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game. **[Source](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e)**
 
 ### Operating systems
 
+- LevelOS: A modern GUI operating system intended to mimic Windows. **[Demo](https://www.youtube.com/watch?v=F29vH8W7ZjE) - [Install](http://install.leveloper.cc) - [Discord](https://discord.gg/vBsjGqy99U)**
 - Opus: An OS which includes a GUI, an app store, and many system-related APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
 - Phoenix: An OS which emphasises modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
     - Phoenix is currently in alpha.
-- LevelOS: A modern GUI operating system intended to mimic Windows. **[Demo](https://www.youtube.com/watch?v=F29vH8W7ZjE) - [Install](http://install.leveloper.cc) - [Discord](https://discord.gg/vBsjGqy99U)**
 - Recrafted: A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design." **[Source](https://github.com/ocawesome101/recrafted)**
 - UnBIOS: A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development. **[Source](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc)**
 
@@ -73,9 +73,9 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 > Note: This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
 
+- DraconicControl: Allows controlling Draconic Evolution's Draconic Reactor from a computer. **[Pastebin](https://pastebin.com/UqVHTht5)**
 - ReactorControl and TurbineControl: Automatic management of reactors and turbines in Big Reactors. **[Pastebin](https://pastebin.com/p4zeq7Ma)**
     - **Note: This program uses the `parallel` API which could cause it to break. [A patch](https://pastebin.com/2ZrbnH5w) has been developed to fix this.**
-- DraconicControl: Allows controlling Draconic Evolution's Draconic Reactor from a computer. **[Pastebin](https://pastebin.com/UqVHTht5)**
 
 ## Non-Lua programs
 
@@ -83,19 +83,19 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Emulators
 
-- CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs) }**
 - CCEmuX: A CC and CC:T emulator which executes the mods directly. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
+- CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs) }**
 
 ### Plugins
 
-- VSCode Extensions for ComputerCraft: Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server. **[Get](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) - [Source](https://github.com/Lemmmy/computercraft-extension-pack)**
 - CraftOS-PC for VS Code: Extension for manipulating and running programs via CraftOS-PC in VSCode. **[Get](https://marketplace.visualstudio.com/items?itemName=JackMacWindows.craftos-pc) - [Docs](https://www.craftos-pc.cc/docs/extension) - [Source](https://github.com/MCJack123/vscode-craftos-pc)**
 - craftos2-plugins: A collection of small plugins for CraftOS-PC, maintained by the creator. **[Get (Windows only)](https://github.com/MCJack123/craftos2-plugins/tree/master/x64-windows) - [Source](https://github.com/MCJack123/craftos2-plugins)**
+- VSCode Extensions for ComputerCraft: Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server. **[Get](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) - [Source](https://github.com/Lemmmy/computercraft-extension-pack)**
 
 ### Tools
 
-- sanjuuni: A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft. **[Get](https://github.com/MCJack123/sanjuuni/releases/latest) - [Source](https://github.com/MCJack123/sanjuuni)**
 - cc-tstl-template: A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript. **[Source](https://github.com/MCJack123/cc-tstl-template)**
+- sanjuuni: A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft. **[Get](https://github.com/MCJack123/sanjuuni/releases/latest) - [Source](https://github.com/MCJack123/sanjuuni)**
 
 ## Literature
 ### Essays
@@ -105,18 +105,18 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Tutorials
 #### Basics
-- Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
 - [Direwolf20's tutorials](https://www.youtube.com/watch?v=wrUHUhfCY5A): A series of videos explaining the basics of ComputerCraft programming. 
 - [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk): See above.
+- Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
 
 #### Moderate or advanced
 - [Bomb Bloke's _Guide to Coroutines_](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
 
 ### Charts and tables
 
-- [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
-- [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png): Demonstrates how coroutines work. Each column represents one coroutine's code flow.
+- [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
+- [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
 
 ## Resources
 
