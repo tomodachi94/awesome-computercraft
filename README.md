@@ -115,7 +115,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ### Charts and tables
 
 - [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
-- [SquidDev's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
+- [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png): Demonstrates how coroutines work. Each column represents one coroutine's code flow.
 
 ## Resources
