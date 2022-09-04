@@ -97,6 +97,12 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - cc-tstl-template: A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript. **[Source](https://github.com/MCJack123/cc-tstl-template)**
 - sanjuuni: A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft. **[Get](https://github.com/MCJack123/sanjuuni/releases/latest) - [Source](https://github.com/MCJack123/sanjuuni)**
 
+### Economy
+
+- KristForge: A miner for the Krist virtual currency. **[Source](https://github.com/tmpim/kristforge)**
+- Krist Server: A virtual currency intended for use with CC and CC:T. **[Source](https://github.com/tmpim/Krist)**
+- KristWeb2: A web wallet for Krist, written in React. **[Source](https://github.com/tmpim/KristWeb2)**
+
 ## Literature
 ### Essays
 
