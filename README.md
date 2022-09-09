@@ -13,8 +13,8 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 ## Mods
 ### ComputerCraft mods
 
-- ComputerCraft: Tweaked: A fork of the original ComputerCraft for modern versions of Minecraft. **[Web](https://computercraft.cc) - [Source](https://github.com/cc-tweaked/CC-Tweaked) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)**
-- ComputerCraft: Restitched: A set of patches for CC:T that allow running it on Fabric. **[Source](https://github.com/cc-tweaked/cc-restitched) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched)**
+- ComputerCraft: Tweaked: A fork of the original ComputerCraft for modern versions of Minecraft. **[Web](https://computercraft.cc) - [Source](https://github.com/cc-tweaked/CC-Tweaked) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) - [Modrinth](https://modrinth.com/mod/cc-tweaked)**
+- ComputerCraft: Restitched: A set of patches for CC:T that allow running it on Fabric. **[Source](https://github.com/cc-tweaked/cc-restitched) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) - [Modrinth](https://modrinth.com/mod/cc-restitched)**
 - ComputerCraft: A mod which adds computers to allow execution of Lua programs. *You probably want ComputerCraft: Tweaked or ComputerCraft: Restitched.* **[Web](http://computercraft.info) - [Source](https://githun.com/dan200/ComputerCraft) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/computercraft)**
 
 ### Add-on mods
