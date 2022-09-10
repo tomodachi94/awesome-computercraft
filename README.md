@@ -81,6 +81,12 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 > Note: This section is for programs that are not mods or Lua programs and **directly** relate to the subject of this list.
 
+### Bridging
+
+> Note: This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
+
+- Ultron Control: A program which exposes a web API for controlling turtles. **[Source](https://gitlab.com/Merith-TK/ultron-control)**
+
 ### Emulators
 
 - CCEmuX: A CC and CC:T emulator which executes the mods directly. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
