@@ -22,6 +22,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://peaceful-nobel-03befe.netlify.app)**
 - Computronics: A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. **[Source](https://github.com/Vexatos/Computronics) - [Docs](https://wiki.vexatos.com/wiki:computronics)**
 - Plethora: A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. **[Source](https://github.com/SquidDev-CC/plethora) - [CurseForge](https://minecraft.curseforge.com/projects/plethora-peripherals) - [Docs](https://plethora.madefor.cc)**
+- CC:C Bridge: A mod which adds support for the [Create mod](https://github.com/Creators-of-Create/Create) to ComputerCraft. **[Source](https://github.com/tweaked-programs/cccbridge) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) - [Modrinth](https://modrinth.com/mod/cccbridge)**
 
 ## Programs (Lua)
 ### Utility
@@ -35,6 +36,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - ModemShark: Modem packet sniffer with a simple UI. **[Source](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8)**
 - netshell: Access a computer's shell from another computer. **[Source](https://github.com/lyqyd/cc-netshell)**
 - rawshell: A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more. **[Source](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc)**
+- FSEncrypt: Transparent filesystem encryption. **[Gist](https://gist.github.com/MCJack123/32c56917dc61da336ec0e8ca6aae39f8)**
 
 ### Library
 
