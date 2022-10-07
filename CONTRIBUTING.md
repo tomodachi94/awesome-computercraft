@@ -9,12 +9,15 @@ If you want an item to be added to the list, it must:
 3. Can immediately used. It has to have an installation script, or (in the case of literature) immediately read.
 
 ## PRs
+### Adding or editing items
 
 Added items should be in alphabetical order, with some exceptions:
 - The ComputerCraft Mods subsection is sorted manually, to keep the modern mods on top and the legacy mods at the bottom.
 - The Resources section is sorted manually, from preferred resources to avoided resources.
 
-Commit messages should be written like this:
+### Commit messages
+
+Commit messages should be written in the present tense, with natural capitalization and no periods:
 
 ```
 Add <item> and <item>
@@ -22,4 +25,8 @@ Add <section>
 Fix [typo|dead link|<error type>]
 ```
 
-With few to no exceptions.
+However, do what makes the most sense.
+
+### Table of contents
+
+A Table of Contents should be updated by the [*Marky Dynamic* extension](https://marketplace.visualstudio.com/items?itemName=robole.marky-dynamic) for VSCode.

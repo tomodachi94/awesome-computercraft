@@ -10,6 +10,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 *If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).*
 
+## Contents
 <!-- TOC -->
 - [Mods](#mods)
     - [ComputerCraft mods](#computercraft-mods)
