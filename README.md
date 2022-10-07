@@ -10,6 +10,35 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 *If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).*
 
+<!-- TOC -->
+- [Mods](#mods)
+    - [ComputerCraft mods](#computercraft-mods)
+    - [Add-on mods](#add-on-mods)
+    - [Resource packs](#resource-packs)
+- [Programs (Lua)](#programs-lua)
+    - [Utility](#utility)
+    - [Library](#library)
+    - [Fun](#fun)
+    - [Operating systems](#operating-systems)
+    - [Economy](#economy)
+    - [Mod-specific programs](#mod-specific-programs)
+- [Non-Lua programs](#non-lua-programs)
+    - [Bridging](#bridging)
+    - [Emulators](#emulators)
+    - [Plugins](#plugins)
+    - [Tools](#tools)
+    - [Economy](#economy)
+- [Literature](#literature)
+    - [Essays](#essays)
+    - [Tutorials](#tutorials)
+        - [Basics](#basics)
+        - [Moderate or advanced](#moderate-or-advanced)
+    - [Charts and tables](#charts-and-tables)
+    - [Other lists](#other-lists)
+- [Resources](#resources)
+<!-- /TOC -->
+
+
 ## Mods
 ### ComputerCraft mods
 
