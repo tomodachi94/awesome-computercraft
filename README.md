@@ -22,7 +22,11 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://docs.intelligence-modding.de)**
 - Computronics: A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. **[Source](https://github.com/Vexatos/Computronics) - [Docs](https://wiki.vexatos.com/wiki:computronics)**
 - Plethora: A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. **[Source](https://github.com/SquidDev-CC/plethora) - [CurseForge](https://minecraft.curseforge.com/projects/plethora-peripherals) - [Docs](https://plethora.madefor.cc)**
-- CC:C Bridge: A mod which adds support for the [Create mod](https://github.com/Creators-of-Create/Create) to ComputerCraft. **[Source](https://github.com/tweaked-programs/cccbridge) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) - [Modrinth](https://modrinth.com/mod/cccbridge)**
+- CC:C Bridge: A mod which adds support for the [Create mod](https://ftb.fandom.com/wiki/Create) to ComputerCraft. **[Source](https://github.com/tweaked-programs/cccbridge) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) - [Modrinth](https://modrinth.com/mod/cccbridge)**
+
+### Resource packs
+
+- ComputerCreate: A resource pack which adds texture packs in the style of the [Create](https://ftb.fandom.com/wiki/Create) mod.
 
 ## Programs (Lua)
 ### Utility
@@ -48,6 +52,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - dbprotect: A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions. **[Source](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363)**
 - ecc.lua: Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 - GuiH: A powerful GUI and graphics library. **[Source](https://github.com/9551-Dev/GuiH) - [Docs](https://guih.madefor.cc/)**
+- IsometriH: An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - RedRun: A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs. **[Source](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)**
 - VeriCode: Provides simple codesigning functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
@@ -70,6 +75,10 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
     - Phoenix is currently in alpha.
 - Recrafted: A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design." **[Source](https://github.com/ocawesome101/recrafted)**
 - UnBIOS: A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development. **[Source](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc)**
+
+### Economy
+
+- msks: A modern, simple shop for the Krist virtual currency. **[Source](https://github.com/MasonGulu/msks)**
 
 ### Mod-specific programs
 
@@ -132,6 +141,10 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png): Demonstrates how coroutines work. Each column represents one coroutine's code flow.
 - [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
 - [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
+
+### Other lists
+
+- [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md): A list of languages which compile to Lua.
 
 ## Resources
 
