@@ -19,7 +19,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ### Add-on mods
 
-- Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://peaceful-nobel-03befe.netlify.app)**
+- Advanced Peripherals: A mod which adds various peripherals and APIs for interacting with other mods. **[Source](https://github.com/Seniorendi/AdvancedPeripherals) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - [Docs](https://docs.intelligence-modding.de)**
 - Computronics: A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. **[Source](https://github.com/Vexatos/Computronics) - [Docs](https://wiki.vexatos.com/wiki:computronics)**
 - Plethora: A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. **[Source](https://github.com/SquidDev-CC/plethora) - [CurseForge](https://minecraft.curseforge.com/projects/plethora-peripherals) - [Docs](https://plethora.madefor.cc)**
 - CC:C Bridge: A mod which adds support for the [Create mod](https://github.com/Creators-of-Create/Create) to ComputerCraft. **[Source](https://github.com/tweaked-programs/cccbridge) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) - [Modrinth](https://modrinth.com/mod/cccbridge)**
