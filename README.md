@@ -1,6 +1,10 @@
 # Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
+[<img src="assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
+
+> Useful libraries, programs, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
+
+**ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
 ***If you are trying to download ComputerCraft, you are in the wrong place. Go to https://www.curseforge.com/minecraft/mc-mods/cc-tweaked or https://www.curseforge.com/minecraft/mc-mods/cc-restitched instead.***
 
