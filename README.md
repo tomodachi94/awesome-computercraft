@@ -16,7 +16,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
     - [ComputerCraft mods](#computercraft-mods)
     - [Add-on mods](#add-on-mods)
     - [Resource packs](#resource-packs)
-- [Programs (Lua)](#programs-lua)
+- [Lua Programs](#lua-programs)
     - [Utility](#utility)
     - [Library](#library)
     - [Fun](#fun)
@@ -56,7 +56,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - ComputerCreate: A resource pack which adds texture packs in the style of the [Create](https://ftb.fandom.com/wiki/Create) mod.
 
-## Programs (Lua)
+## Lua programs
 ### Utility
 
 - ComputerCraft Advanced Shell (cash): A Bourne-compatible shell for ComputerCraft. **[Source](https://github.com/MCJack123/cash) - [Docs](https://cash.madefor.cc)**
