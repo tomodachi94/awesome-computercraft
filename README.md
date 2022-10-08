@@ -129,6 +129,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 ### Emulators
 
 - CCEmuX: A CC and CC:T emulator which executes the mods directly. **[Web](https://emux.cc) - [Source](https://github.com/CCEmuX/CCEmuX) - [Docs](https://emux.cc/getting-started.html)**
+- Copy Cat: A CC:T emulator that runs in a web browser. **[Source](https://github.com/SquidDev-CC/copy-cat) - [Demo](https://copy-cat.squiddev.cc)**
 - CraftOS-PC: A CC:T emulator written in C++ and intends to be fast. **[Web](https://www.craftos-pc.cc) - [Source](https://github.com/MCJack123/craftos2) - [Docs](https://www.craftos-pc.cc/docs)**
 
 ### Plugins
