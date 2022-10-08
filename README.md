@@ -1,14 +1,10 @@
-# Awesome ComputerCraft
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 
 ***If you are trying to download ComputerCraft, you are in the wrong place. Go to https://www.curseforge.com/minecraft/mc-mods/cc-tweaked or https://www.curseforge.com/minecraft/mc-mods/cc-restitched instead.***
 
-**Note on acronyms: CC is ComputerCraft, CC:T is ComputerCraft: Tweaked, and CC:R is ComputerCraft: Restitched.**
-
-*If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).*
+If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contents
 <!-- TOC -->
@@ -32,8 +28,6 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - [Literature](#literature)
     - [Essays](#essays)
     - [Tutorials](#tutorials)
-        - [Basics](#basics)
-        - [Moderate or advanced](#moderate-or-advanced)
     - [Charts and tables](#charts-and-tables)
     - [Other lists](#other-lists)
 - [Resources](#resources)
@@ -160,11 +154,11 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 #### Basics
 - [Direwolf20's tutorials](https://www.youtube.com/watch?v=wrUHUhfCY5A): A series of videos explaining the basics of ComputerCraft programming. 
 - [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk): See above.
-- Lyqyd's _Computer Basics_ series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
+- Lyqyd's *Computer Basics* series ([I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i), [II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)): Though a bit dated, they are excellent for the beginnings of your journey.
 - [The FTB Wiki's Getting Started guide for ComputerCraft](https://ftb.fandom.com/wiki/Getting_Started_(ComputerCraft)): A useful all-around resource for getting started.
 
 #### Moderate or advanced
-- [Bomb Bloke's _Guide to Coroutines_](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
+- [Bomb Bloke's *Guide to Coroutines*](http://www.computercraft.info/forums2/index.php?/topic/25670-bbs-guide-to-coroutines/): Explains why you should not use coroutines, and includes tutorials on using them. 
 
 ### Charts and tables
 
@@ -184,3 +178,7 @@ Awesome libraries, programs, and mods concerning ComputerCraft and its forks.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe): A Discord server for getting help with programming in CC and CC:T.
 - [Lua's manual](https://www.lua.org/manual/): Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
 - ~~[CC's original wiki](http://www.computercraft.info/wiki/Main_Page): Contains some useful legacy information.~~ **Considered deprecated by modern standards.**
+
+## Footnotes
+
+- Note on acronyms: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
