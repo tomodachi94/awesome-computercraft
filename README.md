@@ -91,7 +91,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - battleship: An implementation of the popular two-player game *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*. **[Source](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4)**
 - LuaGB: A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC. **[Source](https://github.com/MCJack123/LuaGB)**
 - lunatic86: A port of an 8086 PC emulator for ComputerCraft. **[Source](https://github.com/MCJack123/lunatic86)**
-- Musicify: A lightweight client for playing music on ComputerCraft:Tweaked**[Source](https://github.com/knijn/musicify)**
+- Musicify: A lightweight client for playing music on ComputerCraft: Tweaked. **[Source](https://github.com/knijn/musicify)**
 - tracc: An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](https://github.com/MCJack123/tracc/tree/playAudio)**
 - YahtCC: An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game. **[Source](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e)**
 
@@ -170,7 +170,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png): Demonstrates how coroutines work. Each column represents one coroutine's code flow.
 - [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png): Demonstrates the flow of events when a program runs.
 - [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png): Contains decimal and hex mappings to ComputerCraft font characters.
-- [Emma's ComputerCraft Compatibility chart](https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing): Shows Compatability across emulators and ingame mods
+- [Emma's ComputerCraft compatibility chart](https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing): Shows compatibility across emulators and in-game mods.
 
 ### Other lists
 
