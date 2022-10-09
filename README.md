@@ -124,6 +124,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 > Note: This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
 
+- Cloud Catcher: A program which enables interaction with computers outside of the game. **[Source](https://github.com/SquidDev-CC/cloud-catcher)**
 - Ultron Control: A program which exposes a web API for controlling turtles. **[Source](https://gitlab.com/Merith-TK/ultron-control)**
 
 ### Emulators
