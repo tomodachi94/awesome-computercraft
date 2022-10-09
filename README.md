@@ -16,7 +16,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
     - [ComputerCraft mods](#computercraft-mods)
     - [Add-on mods](#add-on-mods)
     - [Resource packs](#resource-packs)
-- [Lua Programs](#lua-programs)
+- [Lua programs](#lua-programs)
     - [Utility](#utility)
     - [Library](#library)
     - [Fun](#fun)
@@ -80,7 +80,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - dbprotect: A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions. **[Source](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363)**
 - ecc.lua: Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
 - GuiH: A powerful GUI and graphics library. **[Source](https://github.com/9551-Dev/GuiH) - [Docs](https://guih.madefor.cc/)**
-- IsometriH: An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
+- IsometriH: An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine. **[Source](https://github.com/9551-Dev/IsometriH)**
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - RedRun: A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs. **[Source](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)**
 - VeriCode: Provides simple codesigning functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
