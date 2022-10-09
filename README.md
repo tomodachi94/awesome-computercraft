@@ -91,7 +91,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - battleship: An implementation of the popular two-player game *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*. **[Source](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4)**
 - LuaGB: A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC. **[Source](https://github.com/MCJack123/LuaGB)**
 - lunatic86: A port of an 8086 PC emulator for ComputerCraft. **[Source](https://github.com/MCJack123/lunatic86)**
-- Musicify: A lightweight client for playing music from Computronics tape drives. **[Source](https://github.com/knijin/musicify)**
+- Musicify: A lightweight client for playing music on ComputerCraft:Tweaked**[Source](https://github.com/knijn/musicify)**
 - tracc: An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](https://github.com/MCJack123/tracc/tree/playAudio)**
 - YahtCC: An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game. **[Source](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e)**
 
