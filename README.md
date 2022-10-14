@@ -63,6 +63,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Consult: A text editor emphasizing ease of use and compatibility with many systems. **[Source](https://github.com/1Turtle/CONSULT) - [Docs](https://consult.madefor.cc)**
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) is a fork of Consult for Recrafted systems.
 - gist: A GitHub Gist download/upload program which aims to extend the built-in pastebin program, but for Gists. **[Pastebin](https://pastebin.com/zSLPYpqs)**
+- Howl: A build system for CC and CC:T. **[Source](https://github.com/SquidDev-CC/Howl) - [Docs](https://github.com/SquidDev-CC/Howl/wiki)**
 - LuaIDE: A full-fledged IDE for editing Lua files in-game. **[Pastebin](https://pastebin.com/vyAZc6tJ) - [Source](https://github.com/benanders/LuaIDE) - [Docs](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/)**
 - Mildly Better Shell (MBS): An improved shell that includes scrollback and improved resolution of completions. **[Source](https://github.com/SquidDev-CC/mbs)**
 - ModemShark: Modem packet sniffer with a simple UI. **[Source](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8)**
