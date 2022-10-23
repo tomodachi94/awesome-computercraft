@@ -74,10 +74,11 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 ### Library
 
 - Anavrins' ChaCha20: Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). **[Pastebin](https://pastebin.com/6PVSRckQ) - [Forum](http://www.computercraft.info/forums2/index.php?/topic/25474-chacha20-encryption-in-computercraft/)**
-- Anavrins' MD5: Implementation of [MD5](https://en.wikipedia.org/wiki/MD5). **[Pastebin](https://pastebin.com/6PVSRckQ)**
-- Anavrins' SHA-1: Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) with [HMAC](https://en.wikipedia.org/wiki/HMAC) support. **[Pastebin](https://pastebin.com/SfL7vxP3)**
-- Anavrins' SHA-256: Implementation of [SHA-256](https://en.wikipedia.org/wiki/SHA-2) with support for [HMAC](https://en.wikipedia.org/wiki/HMAC) and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). **[Pastebin](https://pastebin.com/6UV4qfNF) - [Forum](http://www.computercraft.info/forums2/index.php?/topic/8169-sha-256-in-pure-lua/page__st__40__p__246117#entry246117)**
-    - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
+- Anavrins' hashing libraries
+    - MD5: Implementation of [MD5](https://en.wikipedia.org/wiki/MD5). **[Pastebin](https://pastebin.com/6PVSRckQ)**
+    - SHA-1: Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) with [HMAC](https://en.wikipedia.org/wiki/HMAC) support. **[Pastebin](https://pastebin.com/SfL7vxP3)**
+    - SHA-256: Implementation of [SHA-256](https://en.wikipedia.org/wiki/SHA-2) with support for [HMAC](https://en.wikipedia.org/wiki/HMAC) and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). **[Pastebin](https://pastebin.com/6UV4qfNF) - [Forum](http://www.computercraft.info/forums2/index.php?/topic/8169-sha-256-in-pure-lua/page__st__40__p__246117#entry246117)**
+        - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
 - AUKit: The quintessential audio processing and conversion library for ComputerCraft. **[Source](https://github.com/MCJack123/AUKit) - [Docs](https://mcjack123.github.io/AUKit/)**
 - Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
 - Bigfont: A library that makes writing something in different font sizes easy. **[Pastebin](https://pastebin.com/3LfWxRWh)**
