@@ -26,6 +26,10 @@ For non-literature items, follow this format:
 
 A Table of Contents should be updated by the [*Marky Dynamic* extension](https://marketplace.visualstudio.com/items?itemName=robole.marky-dynamic) for VSCode. Manually remove the "Contents" and "Footnotes" sections.
 
+## Reorganization of the list
+
+PRs doing a major refactor of the list will generally not be accepted.
+
 ## Commit messages
 
 Commit messages should be written in the present tense, with natural capitalization and no periods:

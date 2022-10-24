@@ -82,6 +82,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - AUKit: The quintessential audio processing and conversion library for ComputerCraft. **[Source](https://github.com/MCJack123/AUKit) - [Docs](https://mcjack123.github.io/AUKit/)**
 - Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
 - Bigfont: A library that makes writing something in different font sizes easy. **[Pastebin](https://pastebin.com/3LfWxRWh)**
+- C3D: An advanced 3D rendering API. **[Source](https://github.com/9551-Dev/C3D) - [Docs](https://c3d.madefor.cc/)**
 - CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
 - dbprotect: A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions. **[Source](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363)**
 - ecc.lua: Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). **[Pastebin](https://pastebin.com/ZGJGBJdg) - [Forum](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/)**
