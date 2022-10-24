@@ -6,7 +6,7 @@
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-***If you are trying to download ComputerCraft, you are in the wrong place. Go to https://www.curseforge.com/minecraft/mc-mods/cc-tweaked or https://www.curseforge.com/minecraft/mc-mods/cc-restitched instead.***
+***If you are trying to download ComputerCraft, you are in the wrong place. Go to the [CurseForge page for the Forge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) or [Fabric versions](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) instead.***
 
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
@@ -62,7 +62,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - ComputerCraft Advanced Shell (cash): A Bourne-compatible shell for ComputerCraft. **[Source](https://github.com/MCJack123/cash) - [Docs](https://cash.madefor.cc)**
 - Consult: A text editor emphasizing ease of use and compatibility with many systems. **[Source](https://github.com/1Turtle/CONSULT) - [Docs](https://consult.madefor.cc)**
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) is a fork of Consult for Recrafted systems.
-- gist: A GitHub Gist download/upload program which aims to extend the built-in pastebin program, but for Gists. **[Pastebin](https://pastebin.com/zSLPYpqs)**
+- gist: A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists. **[Pastebin](https://pastebin.com/zSLPYpqs)**
 - Howl: A build system for CC and CC:T. **[Source](https://github.com/SquidDev-CC/Howl) - [Docs](https://github.com/SquidDev-CC/Howl/wiki)**
 - LuaIDE: A full-fledged IDE for editing Lua files in-game. **[Pastebin](https://pastebin.com/vyAZc6tJ) - [Source](https://github.com/benanders/LuaIDE) - [Docs](http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/)**
 - Mildly Better Shell (MBS): An improved shell that includes scrollback and improved resolution of completions. **[Source](https://github.com/SquidDev-CC/mbs)**
@@ -80,7 +80,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
     - SHA-256: Implementation of [SHA-256](https://en.wikipedia.org/wiki/SHA-2) with support for [HMAC](https://en.wikipedia.org/wiki/HMAC) and [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). **[Pastebin](https://pastebin.com/6UV4qfNF) - [Forum](http://www.computercraft.info/forums2/index.php?/topic/8169-sha-256-in-pure-lua/page__st__40__p__246117#entry246117)**
         - There is a variant for versions of ComputerCraft missing the `require()` function. **[Pastebin](https://pastebin.com/Qk31PubV)**
 - AUKit: The quintessential audio processing and conversion library for ComputerCraft. **[Source](https://github.com/MCJack123/AUKit) - [Docs](https://mcjack123.github.io/AUKit/)**
-- Basalt: A GUI library emphasising the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
+- Basalt: A GUI library emphasizing the user experience. **[Source](https://github.com/Pyroxenium/Basalt) - [Docs](https://basalt.madefor.cc/)**
 - Bigfont: A library that makes writing something in different font sizes easy. **[Pastebin](https://pastebin.com/3LfWxRWh)**
 - C3D: An advanced 3D rendering API. **[Source](https://github.com/9551-Dev/C3D) - [Docs](https://c3d.madefor.cc/)**
 - CC-Archive: Various libraries for archiving and unarchiving files. **[Source](https://github.com/MCJack123/CC-Archive)**
@@ -90,7 +90,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - IsometriH: An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine. **[Source](https://github.com/9551-Dev/IsometriH)**
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - RedRun: A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs. **[Source](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)**
-- VeriCode: Provides simple codesigning functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
+- VeriCode: Provides simple code signing functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
 
 ### Fun
 
