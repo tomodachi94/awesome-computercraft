@@ -30,9 +30,11 @@ A Table of Contents should be updated by the [*Marky Dynamic* extension](https:/
 
 PRs doing a major refactor of the list will generally not be accepted.
 
-## Spelling
+### Spelling
 
 Please use American spelling unless it is a part of a name.
+
+When you open your PR, an automated spellcheck will be run. If your added items are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`.
 
 ## Commit messages
 
