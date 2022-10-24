@@ -106,7 +106,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - LevelOS: A modern GUI operating system intended to mimic Windows. **[Demo](https://www.youtube.com/watch?v=F29vH8W7ZjE) - [Install](http://install.leveloper.cc) - [Discord](https://discord.gg/vBsjGqy99U)**
 - Opus: An OS which includes a GUI, an app store, and many system-related APIs. **[Pastebin](https://pastebin.com/UzGHLbNC) - [Source](https://github.com/kepler155c/opus)**
-- Phoenix: An OS which emphasises modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
+- Phoenix: An OS which emphasizes modularity. It implements its own kernel. **[Install](https://phoenix.madefor.cc/install.lua) - [Docs](https://phoenix.madefor.cc)**
     - Phoenix is currently in alpha.
 - Recrafted: A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design." **[Source](https://github.com/ocawesome101/recrafted)**
 - UnBIOS: A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development. **[Source](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc)**
@@ -143,7 +143,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 ### Plugins
 
 - CraftOS-PC for VS Code: Extension for manipulating and running programs via CraftOS-PC in VSCode. **[Get](https://marketplace.visualstudio.com/items?itemName=JackMacWindows.craftos-pc) - [Docs](https://www.craftos-pc.cc/docs/extension) - [Source](https://github.com/MCJack123/vscode-craftos-pc)**
-- craftos2-plugins: A collection of small plugins for CraftOS-PC, maintained by the creator. **[Get (Windows only)](https://github.com/MCJack123/craftos2-plugins/tree/master/x64-windows) - [Source](https://github.com/MCJack123/craftos2-plugins)**
+- `craftos2-plugins`: A collection of small plugins for CraftOS-PC, maintained by the creator. **[Get (Windows only)](https://github.com/MCJack123/craftos2-plugins/tree/master/x64-windows) - [Source](https://github.com/MCJack123/craftos2-plugins)**
 - VSCode Extensions for ComputerCraft: Self-explanatory. Contains autocomplete for CC and CC:T functions, as well as a Lua language server. **[Get](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack) - [Source](https://github.com/Lemmmy/computercraft-extension-pack)**
 
 ### Tools
