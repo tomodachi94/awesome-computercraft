@@ -26,9 +26,13 @@ For non-literature items, follow this format:
 
 A Table of Contents should be updated by the [*Marky Dynamic* extension](https://marketplace.visualstudio.com/items?itemName=robole.marky-dynamic) for VSCode. Manually remove the "Contents" and "Footnotes" sections.
 
-## Reorganization of the list
+### Reorganization of the list
 
 PRs doing a major refactor of the list will generally not be accepted.
+
+## Spelling
+
+Please use American spelling unless it is a part of a name.
 
 ## Commit messages
 
