@@ -6,7 +6,7 @@ If you want an item to be added to the list, it must:
 
 1. Be awesome.
 2. Be relevant to ComputerCraft. It could be an awesome ComputerCraft extension mod, or an awesome tutorial. It cannot be your friend's cat's Facebook page, or your irrelevant project.
-3. Can be immediately used. It has to have an installation script, or (in the case of literature) immediately read.
+3. Can be immediately used. It has to have an installation script, or (in the case of literature) be immediately readable.
 
 ## Document styling
 
@@ -34,7 +34,7 @@ PRs doing a major refactor of the list will generally not be accepted.
 
 Please use American spelling unless it is a part of a name.
 
-When you open your PR, an automated spellcheck will be run. If your added items are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`.
+When you open your PR, an automated spellcheck will be run. If your item's names are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`.
 
 ## Commit messages
 
