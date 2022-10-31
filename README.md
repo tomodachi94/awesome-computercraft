@@ -102,6 +102,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Musicify: A lightweight client for playing music on ComputerCraft: Tweaked. **[Source](https://github.com/knijn/musicify)**
 - tracc: An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](https://github.com/MCJack123/tracc/tree/playAudio)**
 - YahtCC: An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game. **[Source](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e)**
+- YouCube: Access YouTube and other services in ComputerCraft. **[Source](https://github.com/Commandcracker/YouCube)**
 
 ### Operating systems
 
