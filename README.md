@@ -69,6 +69,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - ModemShark: Modem packet sniffer with a simple UI. **[Source](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8)**
 - netshell: Access a computer's shell from another computer. **[Source](https://github.com/lyqyd/cc-netshell)**
 - rawshell: A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more. **[Source](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc)**
+- unicornpkg: Modern package management that doesn't suck. **[Docs](https://unicornpkg.madefor.cc) - [GitHub](https://github.com/unicornpkg)**
 - FSEncrypt: Transparent filesystem encryption. **[Gist](https://gist.github.com/MCJack123/32c56917dc61da336ec0e8ca6aae39f8)**
 
 ### Library
