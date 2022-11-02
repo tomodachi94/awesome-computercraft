@@ -92,6 +92,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - IsometriH: An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine. **[Source](https://github.com/9551-Dev/IsometriH)**
 - Milo: A crafting and inventory management system. Note that this depends on OpusOS and Plethora. **[Source](https://github.com/kepler155c/opus-apps/tree/master-1.8/milo) - [Docs](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system))**
 - RedRun: A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs. **[Source](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)**
+- Tamperer: A library allowing easy creation of settings menus. **[Source](https://github.com/Fatboychummy-CC/Tamperer)**
 - VeriCode: Provides simple code signing functions for safely transferring code over modems. **[Source](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750)**
 
 ### Fun
