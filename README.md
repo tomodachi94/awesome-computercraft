@@ -28,7 +28,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
     - [Emulators](#emulators)
     - [Plugins](#plugins)
     - [Tools](#tools)
-    - [Economy](#economy)
+    - [Economy](#economy-1)
 - [Literature](#literature)
     - [Essays](#essays)
     - [Tutorials](#tutorials)
