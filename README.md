@@ -63,7 +63,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
 - [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists. 
-- [Howl](https://github.com/SquidDev-CC/Howl)) -  A build system for CC and CC:T.
+- [Howl](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
 - [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) -  A full-fledged IDE for editing Lua files in-game.
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
 - [ModemShark](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8) -  Modem packet sniffer with a simple UI.
@@ -101,7 +101,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [LuaGB](https://github.com/MCJack123/LuaGB) -  A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC.
 - [lunatic86](https://github.com/MCJack123/lunatic86) -  A port of an 8086 PC emulator for ComputerCraft.
 - [Musicify](https://github.com/knijn/musicify) -  A lightweight client for playing music on ComputerCraft: Tweaked.
-- [tracc](https://github.com/MCJack123/tracc/tree/playAudio) -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game. **[Source](**
+	- [tracc](https://github.com/MCJack123/tracc/tree/playAudio) -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.
 - [YahtCC](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e) -  An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game.
 - [YouCube](https://github.com/Commandcracker/YouCube) -  Access YouTube and other services in ComputerCraft.
 - [YTP2CCP](https://pastebin.com/nxEMWHY3) -  Convert commented YouTube piano notes and play them in CC:T.
