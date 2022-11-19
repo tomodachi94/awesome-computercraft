@@ -16,11 +16,13 @@ Added items should be in alphabetical order, with some exceptions:
 
 ### List entries
 
-For non-literature items, follow this format:
+For all list items, follow this format:
 
 ```md
-- My Awesome Thing: An awesome thing for ComputerCraft. **[Source](https://github.com/tomodachi94/awesome-computercraft) - [Docs](https://example.com)**
+- [My Awesome Thing](https://example.com) - An awesome thing for ComputerCraft.
 ```
+
+The attached link should be the *best link available*. Prefer homepages to Pastebin uploads.`
 
 ### Table of contents
 
