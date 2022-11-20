@@ -75,6 +75,9 @@ Bigfont
 dbprotect
 ecc
 ecc.lua
+ecnet
+YTP
+CCP
 GuiH
 IsometriH
 OpusOS
