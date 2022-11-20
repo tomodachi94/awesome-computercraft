@@ -186,6 +186,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ### Other lists
 
+- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - An Awesome list specific to the Lua programming language.
 - [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) -  A list of languages which compile to Lua.
 
 ## Resources
