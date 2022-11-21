@@ -195,6 +195,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [CC's forums](https://computercraft.info/forums2) -  An extremely valuable resource, filled with tutorials and programs.
 - [CC:T's forums](https://forums.computercraft.cc) -  Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe) -  A Discord server for getting help with programming in CC and CC:T.
+- [ComputerCraft's subreddit](https://reddit.com/r/computercraft) - A subreddit for showing off your ComputerCraft creations, as well as getting help.
 - [Lua's manual](https://www.lua.org/manual/) -  Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
 - ~~[CC's original wiki](http://www.computercraft.info/wiki/Main_Page) -  Contains some useful legacy information.~~ **Considered deprecated by modern standards.**
 
