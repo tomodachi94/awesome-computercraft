@@ -90,6 +90,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [GuiH](https://guih.madefor.cc) -  A powerful GUI and graphics library.
 - [IsometriH](https://github.com/9551-Dev/IsometriH) -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system)) -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
+- [Pine3D](https://github.com/Xella37/Pine3D) - A 3D rendering engine designed to be fast.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
 - [VeriCode](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750) -  Provides simple code signing functions for safely transferring code over modems.
