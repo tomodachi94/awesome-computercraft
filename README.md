@@ -99,6 +99,8 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
 - [battleship](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4) -  An implementation of the popular two-player game *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*.
+- [CCDoom](https://github.com/Xella37/CCDoom) - The [_Doom_ shooter](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) ported to ComputerCraft using Pine3D.
+- [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) - _Minecraft_ ported to ComputerCraft using Pine3D.
 - [LuaGB](https://github.com/MCJack123/LuaGB) -  A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC.
 - [lunatic86](https://github.com/MCJack123/lunatic86) -  A port of an 8086 PC emulator for ComputerCraft.
 - [Musicify](https://github.com/knijn/musicify) -  A lightweight client for playing music on ComputerCraft: Tweaked.
