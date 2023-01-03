@@ -17,6 +17,7 @@ compatiblelicenses
 creativecommons
 # Programming-specific terminology
 ComputerCraft
+ComputerCraft's
 Lua
 API
 APIs
@@ -49,6 +50,8 @@ URI
 CONTRIBUTING.md
 md
 lua
+subreddit
+Reddit
 # ComputerCraft-specific terminology
 CraftOS
 Minecraft
@@ -59,6 +62,7 @@ Gists
 Pastebin
 upvalue
 upvalues
+MCCM
 CC
 CC's
 Lua's
@@ -66,6 +70,7 @@ Lua's
 Recrafted
 LuaIDE
 ComputerCreate
+CCDoom
 ModemShark
 netshell
 rawshell
