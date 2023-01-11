@@ -12,29 +12,34 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contents
 <!-- TOC -->
-- [Mods](#mods)
+- [Awesome ComputerCraft ](#awesome-computercraft-)
+  - [Contents](#contents)
+  - [Mods](#mods)
     - [ComputerCraft mods](#computercraft-mods)
     - [Add-on mods](#add-on-mods)
     - [Resource packs](#resource-packs)
-- [Lua programs](#lua-programs)
+  - [Lua programs](#lua-programs)
     - [Utility](#utility)
     - [Library](#library)
     - [Fun](#fun)
     - [Operating systems](#operating-systems)
     - [Economy](#economy)
     - [Mod-specific programs](#mod-specific-programs)
-- [Non-Lua programs](#non-lua-programs)
+  - [Non-Lua programs](#non-lua-programs)
     - [Bridging](#bridging)
     - [Emulators](#emulators)
     - [Plugins](#plugins)
     - [Tools](#tools)
     - [Economy](#economy-1)
-- [Literature](#literature)
+  - [Literature](#literature)
     - [Essays](#essays)
     - [Tutorials](#tutorials)
+      - [Basics](#basics)
+      - [Moderate or advanced](#moderate-or-advanced)
     - [Charts and tables](#charts-and-tables)
     - [Other lists](#other-lists)
-- [Resources](#resources)
+  - [Resources](#resources)
+  - [Footnotes](#footnotes)
 <!-- /TOC -->
 
 
@@ -68,6 +73,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
 - [ModemShark](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8) -  Modem packet sniffer with a simple UI.
 - [netshell](https://github.com/lyqyd/cc-netshell) -  Access a computer's shell from another computer.
+- [OrangeBox](https://github.com/walksanatora/orangebox) - Virtualization support for ComputerCraft computers.
 - [rawshell](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc) -  A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more.
 - [unicornpkg](https://unicornpkg.madefor.cc) -  Modern package management that doesn't suck.
 - [FSEncrypt](https://gist.github.com/MCJack123/32c56917dc61da336ec0e8ca6aae39f8) -  Transparent filesystem encryption.
