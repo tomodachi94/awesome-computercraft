@@ -112,7 +112,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [Musicify](https://github.com/knijn/musicify) -  A lightweight client for playing music on ComputerCraft: Tweaked.
 	- [tracc](https://github.com/MCJack123/tracc/tree/playAudio) -  An XM module tracker/player for ComputerCraft, supporting 8 channel polyphony in-game.
 - [YahtCC](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e) -  An implementation of the *[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game.
-- [YouCube](https://github.com/Commandcracker/YouCube) -  Access YouTube and other services in ComputerCraft.
+- [YouCube](https://youcube.madefor.cc) -  Access YouTube and other services in ComputerCraft.
 - [YTP2CCP](https://pastebin.com/nxEMWHY3) -  Convert commented YouTube piano notes and play them in CC:T.
 
 ### Operating systems
