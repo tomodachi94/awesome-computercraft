@@ -6,8 +6,6 @@
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-***If you are trying to download ComputerCraft, you are in the wrong place. Go to the [CurseForge page for the Forge](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) or [Fabric versions](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) instead.***
-
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contents
