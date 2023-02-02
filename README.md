@@ -1,3 +1,5 @@
+<!--lint ignore-->
+
 # Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
@@ -8,36 +10,33 @@
 
 If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
+
 ## Contents
 <!-- TOC -->
-- [Awesome ComputerCraft ](#awesome-computercraft-)
-  - [Contents](#contents)
-  - [Mods](#mods)
-    - [ComputerCraft mods](#computercraft-mods)
-    - [Add-on mods](#add-on-mods)
-    - [Resource packs](#resource-packs)
-  - [Lua programs](#lua-programs)
-    - [Utility](#utility)
-    - [Library](#library)
-    - [Fun](#fun)
-    - [Operating systems](#operating-systems)
-    - [Economy](#economy)
-    - [Mod-specific programs](#mod-specific-programs)
-  - [Non-Lua programs](#non-lua-programs)
-    - [Bridging](#bridging)
-    - [Emulators](#emulators)
-    - [Plugins](#plugins)
-    - [Tools](#tools)
-    - [Economy](#economy-1)
-  - [Literature](#literature)
-    - [Essays](#essays)
-    - [Tutorials](#tutorials)
-      - [Basics](#basics)
-      - [Moderate or advanced](#moderate-or-advanced)
-    - [Charts and tables](#charts-and-tables)
-    - [Other lists](#other-lists)
-  - [Resources](#resources)
-  - [Footnotes](#footnotes)
+- [Mods](#mods)
+  - [ComputerCraft mods](#computercraft-mods)
+  - [Add-on mods](#add-on-mods)
+  - [Resource packs](#resource-packs)
+- [Lua programs](#lua-programs)
+  - [Utility](#utility)
+  - [Library](#library)
+  - [Fun](#fun)
+  - [Operating systems](#operating-systems)
+  - [Economy](#economy)
+  - [Mod-specific programs](#mod-specific-programs)
+- [Non-Lua programs](#non-lua-programs)
+  - [Bridging](#bridging)
+  - [Emulators](#emulators)
+  - [Plugins](#plugins)
+  - [Tools](#tools)
+  - [Economy](#economy-1)
+- [Literature](#literature)
+  - [Essays](#essays)
+  - [Tutorials](#tutorials)
+  - [Charts and tables](#charts-and-tables)
+  - [Other lists](#other-lists)
+- [Resources](#resources)
 <!-- /TOC -->
 
 
@@ -103,8 +102,8 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) -  Based on AUKit, a simple audio player supporting WAV, DFPWM, AIFF, AU, and FLAC.
 - [battleship](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4) -  An implementation of the popular two-player game *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*.
-- [CCDoom](https://github.com/Xella37/CCDoom) - The [_Doom_ shooter](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) ported to ComputerCraft using Pine3D.
-- [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) - _Minecraft_ ported to ComputerCraft using Pine3D.
+- [CCDoom](https://github.com/Xella37/CCDoom) - The [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) ported to ComputerCraft using Pine3D.
+- [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) - *Minecraft* ported to ComputerCraft using Pine3D.
 - [LuaGB](https://github.com/MCJack123/LuaGB) -  A port of a Game Boy (Color) emulator for ComputerCraft. Works best in CraftOS-PC.
 - [lunatic86](https://github.com/MCJack123/lunatic86) -  A port of an 8086 PC emulator for ComputerCraft.
 - [Musicify](https://github.com/knijn/musicify) -  A lightweight client for playing music on ComputerCraft: Tweaked.
@@ -188,6 +187,7 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 - [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png) -  Demonstrates how coroutines work. Each column represents one coroutine's code flow.
 - [KingOfGameYami's event flow chart](https://media.discordapp.net/attachments/477911902152949771/729709228675301380/image.png) -  Demonstrates the flow of events when a program runs.
+<!--lint ignore-->
 - [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png) -  Contains decimal and hex mappings to ComputerCraft font characters.
 - [Emma's ComputerCraft compatibility chart](https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing) -  Shows compatibility across emulators and in-game mods.
 
@@ -204,7 +204,3 @@ If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe) -  A Discord server for getting help with programming in CC and CC:T.
 - [ComputerCraft's subreddit](https://reddit.com/r/computercraft) - A subreddit for showing off your ComputerCraft creations, as well as getting help.
 - [Lua's manual](https://www.lua.org/manual/) -  Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
-
-## Footnotes
-
-- Note on acronyms: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
