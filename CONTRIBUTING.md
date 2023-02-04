@@ -34,11 +34,13 @@ A Table of Contents should be updated by the [*Marky Dynamic* extension](https:/
 
 PRs doing a major refactor of the list will generally not be accepted.
 
-### Spelling
+### Spelling and linting
 
 Please use American spelling unless it is a part of a name.
 
-When you open your PR, an automated spellcheck will be run. If your item's names are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`.
+When you open your PR, an automated spellcheck and linter will be run. If your item's names are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`. If the `awesome-lint` linter points out some issues, please fix them and squash them into the initial commit.
+
+Alternatively, you can run the checks yourself by [installing Nix](https://nixos.org) and then executing the `Justfile` in the repo's root.
 
 ## Commit messages
 
