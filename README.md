@@ -125,8 +125,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Economy Lua programs
 
-- [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
 - [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft. Powered by Basalt.
+- [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
 
 ### Mod-specific programs
 
@@ -161,9 +161,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Tools
 
+- [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG blit format for CC 
 - [cc-tstl-template](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
-- [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG blit format for CC 
 
 ### Economy
 
