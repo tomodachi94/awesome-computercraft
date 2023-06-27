@@ -23,14 +23,14 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
   - [Library](#library)
   - [Fun](#fun)
   - [Operating systems](#operating-systems)
-  - [Economy](#economy)
+  - [Economy](#economy-lua-programs)
   - [Mod-specific programs](#mod-specific-programs)
 - [Non-Lua programs](#non-lua-programs)
   - [Bridging](#bridging)
   - [Emulators](#emulators)
   - [Plugins](#plugins)
   - [Tools](#tools)
-  - [Economy](#economy-1)
+  - [Economy](#economy)
 - [Literature](#literature)
   - [Essays](#essays)
   - [Tutorials](#tutorials)
@@ -51,13 +51,13 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) -  A mod which adds various peripherals and APIs for interacting with other mods. 
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
 - [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. 
-- [CC:C Bridge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) -  A mod which adds support for the [Create mod](https://ftb.fandom.com/wiki/Create) to ComputerCraft. 
+- [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between the ComputerCraft and [Create mod](https://modrinth.com/mod/create)! 
 - [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which end goal is to make turtles so useful, so you will never need any other automation mod!
 - [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot peripherals to other mods.
 
 ### Resource packs
 
-- [ComputerCreate](https://modrinth.com/resourcepack/computercreate) -  A resource pack which adds texture packs in the style of the [Create](https://ftb.fandom.com/wiki/Create) mod.
+- [ComputerCreate](https://modrinth.com/resourcepack/computercreate) -  A resource pack which adds texture packs in the style of the [Create mod](https://modrinth.com/mod/create).
 
 ## Lua programs
 ### Utility
@@ -123,9 +123,10 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Recrafted](https://github.com/ocawesome101/recrafted) -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 - [UnBIOS](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc) -  A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development.
 
-### Economy
+### Economy Lua programs
 
 - [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
+- [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft. Powered by Basalt.
 
 ### Mod-specific programs
 
@@ -162,6 +163,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [cc-tstl-template](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
+- [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG blit format for CC 
 
 ### Economy
 
