@@ -122,7 +122,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Recrafted](https://github.com/ocawesome101/recrafted) -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 - [UnBIOS](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc) -  A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development.
 
-### Economy Lua programs
+### Economy
 
 - [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft, powered by [Basalt](https://basalt.madefor.cc).
 - [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
