@@ -23,14 +23,13 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
   - [Library](#library)
   - [Fun](#fun)
   - [Operating systems](#operating-systems)
-  - [Economy](#economy-lua-programs)
+  - [Economy](#economy)
   - [Mod-specific programs](#mod-specific-programs)
 - [Non-Lua programs](#non-lua-programs)
   - [Bridging](#bridging)
   - [Emulators](#emulators)
   - [Plugins](#plugins)
   - [Tools](#tools)
-  - [Economy](#economy)
 - [Literature](#literature)
   - [Essays](#essays)
   - [Tutorials](#tutorials)
@@ -145,6 +144,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 > Note: This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
 
 - [Cloud Catcher](https://github.com/SquidDev-CC/cloud-catcher) -  A program which enables interaction with computers outside of the game.
+- [Krist Server](https://github.com/tmpim/Krist) -  A server for the Krist virtual currency, intended for use with CC and CC:T.
+    - [KristForge](https://github.com/tmpim/kristforge) -  A miner for the Krist virtual currency.
+    - [KristWeb2](https://github.com/tmpim/KristWeb2) -  A web wallet for Krist, written in React.
 - [Ultron Control](https://gitlab.com/Merith-TK/ultron-control) -  A program which exposes a web API for controlling turtles.
 
 ### Emulators
@@ -164,12 +166,6 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG format.
 - [cc-tstl-template](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
-
-### Economy
-
-- [KristForge](https://github.com/tmpim/kristforge) -  A miner for the Krist virtual currency.
-- [Krist Server](https://github.com/tmpim/Krist) -  A virtual currency intended for use with CC and CC:T. 
-- [KristWeb2](https://github.com/tmpim/KristWeb2) -  A web wallet for Krist, written in React.
 
 ## Literature
 ### Essays
