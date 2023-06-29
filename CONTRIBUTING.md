@@ -36,6 +36,8 @@ For all list items, follow this format:
 
 The attached link should be the *best link available*. Prefer homepages to Pastebin uploads.
 
+All list items should end in a period. List items should start with `-`.
+
 ### Table of contents
 
 The table of contents is updated by the [DocToc](https://github.com/thlorenz/doctoc) tool.
@@ -46,7 +48,7 @@ PRs doing a major refactor of the list will generally not be accepted.
 
 ### Spelling
 
-Please use American spelling unless it is a part of a name.
+Please use American spelling unless it is a part of a name. Please keep item descriptions short, and end them with a period. Avoid sounding like an advertisement.
 
 ### Automated checks
 
@@ -62,7 +64,9 @@ To run the checks locally, you can install the tools manually (not recommended),
 * Run `direnv allow` in the current directory.
 * Run `just check`.
 
-## Commit messages
+## Commits
+
+Commits should do one thing, or a series of related things.
 
 Commit messages should be written in the present tense, with natural capitalization and no periods:
 
