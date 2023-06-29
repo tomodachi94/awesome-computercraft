@@ -102,7 +102,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Pixelbox lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - An insanely fast [drawing character](https://cdn.discordapp.com/attachments/876936991256743947/1123213991813058751/image.png) processing library
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
-- [Tampl](https://github.com/9551-Dev/tampl) -  Lua tokenization/parsing library designed for injecting code into existing programs and dynamic code generation
+- [Tampl](https://github.com/9551-Dev/tampl) - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
 - [VeriCode](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750) -  Provides simple code signing functions for safely transferring code over modems.
 
 ### Fun
