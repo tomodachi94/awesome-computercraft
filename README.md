@@ -79,7 +79,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Library
 
-- [Acidity](https://github.com/9551-Dev/acidity) -  A simple to use [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png) oriented noise generation library
+- [Acidity](https://github.com/9551-Dev/acidity) -  A simple [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png)-oriented noise generation library.
 - [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305).
 - Anavrins' hashing libraries:
     - [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
