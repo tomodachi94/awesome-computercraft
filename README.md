@@ -65,7 +65,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft. 
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
-- [GEMU](https://github.com/9551-Dev/GEMU) -  CraftOS pc graphics mode emulator based on pixelbox
+- [GEMU](https://github.com/9551-Dev/GEMU) -  CraftOS-PC graphics mode emulator based on Pixelbox.
 - [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
 - [Howl](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
 - [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) -  A full-fledged IDE for editing Lua files in-game.
