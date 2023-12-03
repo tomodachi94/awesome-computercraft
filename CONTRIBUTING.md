@@ -7,6 +7,7 @@ If you want an item to be added to the list, it must:
 1. Be awesome.
 2. Be relevant to ComputerCraft. It could be an awesome ComputerCraft extension mod, or an awesome tutorial. It cannot be your friend's cat's Facebook page, or good ol' Neighbor Joe's JavaScript autocorrection tool.
 3. Can be immediately used. It has to have an installation script, or (in the case of literature) be immediately readable.
+4. Have a public URL somewhere. We need to be able to link to it. A Pastebin link is sufficient. Exception: No links that require you to sign in. This includes Discord forum posts.
 
 If you have any questions about these guidelines, feel free to [join my Discord server](https://discord.gg/Xs3VKNJrMb) or send a message [on Matrix](https://matrix.to/#/#awesome-computercraft:matrix.org).
 
