@@ -127,7 +127,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
     - Phoenix is currently in alpha.
 - [Recrafted](https://github.com/ocawesome101/recrafted) -  A rewrite of CraftOS aiming for full feature parity while maintaining "saner API design."
 - [UnBIOS](https://gist.github.com/MCJack123/42bc69d3757226c966da752df80437dc) -  A program to "undo" CraftOS, returning the system to the same state it was in before running the BIOS. Useful for OS development.
-- [cOS]([https://example.com](https://github.com/knijn/cos)) - the NixOS inspired configurable ComputerCraft OS
+- [cOS](https://github.com/knijn/cos) - The NixOS inspired configurable ComputerCraft OS
 
 
 ### Economy
