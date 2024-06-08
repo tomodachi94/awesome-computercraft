@@ -27,9 +27,7 @@
                     lychee
                     vale
                     tomodachi94.packages.${system}.awesome-lint
-                    hunspellDicts.en-us-large
                   ];
-                  env.DICPATH = "${pkgs.hunspellDicts.en-us-large}/share/hunspell";
                 }
               ];
             };
