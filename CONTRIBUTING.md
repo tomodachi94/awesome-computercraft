@@ -41,13 +41,21 @@ A Table of Contents should be updated by the [*Marky Dynamic* extension](https:/
 
 PRs doing a major refactor of the list will generally not be accepted.
 
-### Spelling and linting
+### Spelling
 
 Please use American spelling unless it is a part of a name.
 
-When you open your PR, an automated spellcheck and linter will be run. If your item's names are marked as incorrect, please add them to `.github/spellcheck/wordlist.txt`. If the `awesome-lint` linter points out some issues, please fix them and squash them into the initial commit.
+### Automated checks
 
-Alternatively, you can run the checks yourself by [installing Nix](https://nixos.org) and then executing the `Justfile` in the repo's root.
+Various checks are executed with GitHub Actions for quality assurance:
+* The [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) project is executed to ensure that the standards set by the upstream Awesome list are upheld.
+* The [Lychee](https://lychee.cli.rs/introduction/) link checker is executed to ensure that all links in the repository are valid.
+
+To run the checks locally, you can install the tools manually (not recommended), or use this workflow:
+* [Install Nix](https://nixos.org).
+* (Optional) [Install Direnv](https://direnv.net/) and [`nix-direnv`](https://github.com/nix-community/nix-direnv).
+* Run `direnv allow` in the current directory.
+* Run `just check`.
 
 ## Commit messages
 
