@@ -78,7 +78,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Library
 
-- [Acidity](https://github.com/9551-Dev/acidity) -  A simple [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png)-oriented noise generation library.
+- [Acidity](https://github.com/9551-Dev/acidity) -  A simple procedual world generation-oriented noise generation library.
 - [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
 - Anavrins' hashing libraries:
     - [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
@@ -98,7 +98,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system)) -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - A 3D rendering engine designed to be fast.
 - [PngLua](https://github.com/9551-Dev/pngLua) -  PNG parsing library designed for ComputerCraft.
-- [Pixelbox Lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - An insanely fast [drawing character](https://cdn.discordapp.com/attachments/876936991256743947/1123213991813058751/image.png) processing library.
+- [Pixelbox Lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - An insanely fast drawing character processing library.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
 - [Tampl](https://github.com/9551-Dev/tampl) - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
@@ -199,10 +199,10 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Charts, tables, and calculators
 
-- [JackMacWindows's coroutine flow chart](https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png) -  Demonstrates how coroutines work. Each column represents one coroutine's code flow.
+- [JackMacWindows's coroutine flow chart](https://web.archive.org/web/20231212184953/https://cdn.discordapp.com/attachments/477911902152949771/959769473437560862/Blank_Diagram_1_Page_1.png) -  Demonstrates how coroutines work. Each column represents one coroutine's code flow.
 - [KingOfGamesYami's event flow chart](https://forums.computercraft.cc/index.php?topic=26.0) -  Demonstrates the flow of events when a program runs.
 <!--lint ignore-->
-- [Wojbie's decimal font chart](https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://thox.madefor.cc/_images/encodings-cc-chars.png) -  Contains decimal and hex mappings to ComputerCraft font characters.
+- [Wojbie's decimal font chart](https://web.archive.org/web/20231212200503/https://cdn.discordapp.com/attachments/477911902152949771/933498000385400862/1642633650325141456271.png) and [Cake's hex font chart](https://web.archive.org/web/20231118175928/https://thox.madefor.cc/_images/encodings-cc-chars.png) -  Contains decimal and hex mappings to ComputerCraft font characters.
 - [Emma's ComputerCraft compatibility chart](https://docs.google.com/spreadsheets/d/1s4d21cL3QrUyegEzYaVXvqDr1zNorgyZ-fDWeopIC1k/edit?usp=sharing) -  Shows compatibility across emulators and in-game mods.
 - [MasonGulu's monitor size calculator](https://monitorsize.madefor.cc/) - An online gadget which calculates how many characters and pixels will fit onto a monitor.
 
