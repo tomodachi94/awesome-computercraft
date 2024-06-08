@@ -137,8 +137,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Mod-specific programs
 
-> [!NOTE]
-> This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
+> Note: This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
 
 - [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
@@ -147,13 +146,11 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ## Non-Lua programs
 
-> [!NOTE]
-> This section is for programs that are not mods or Lua programs and **directly** relate to the subject of this list.
+> Note: This section is for programs that are not mods or Lua programs and **directly** relate to the subject of this list.
 
 ### Bridging
 
-> [!NOTE]
-> This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
+> Note: This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
 
 - [Cloud Catcher](https://github.com/SquidDev-CC/cloud-catcher) -  A program which enables interaction with computers outside of the game.
 - [Krist Server](https://github.com/tmpim/Krist) -  A server for the Krist virtual currency, intended for use with CC and CC:T.
