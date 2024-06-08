@@ -24,6 +24,7 @@
                   # https://devenv.sh/reference/options/
                   packages = with pkgs; [
                     just
+                    lychee
                     vale
                     tomodachi94.packages.${system}.awesome-lint
                     hunspellDicts.en-us-large
