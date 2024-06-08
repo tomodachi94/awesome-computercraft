@@ -2,11 +2,10 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-22.11";
     systems.url = "github:nix-systems/default";
-    devenv.url = "github:cachix/devenv";
     tomodachi94.url = "github:tomodachi94/dotfiles?dir=pkgs";
   };
 
-  outputs = { self, nixpkgs, devenv, tomodachi94, systems, ... } @ inputs:
+  outputs = { self, nixpkgs, tomodachi94, systems, ... } @ inputs:
     let
       forEachSystem = nixpkgs.lib.genAttrs (import systems);
     in
@@ -17,18 +16,12 @@
             pkgs = nixpkgs.legacyPackages.${system};
           in
           {
-            default = devenv.lib.mkShell {
-              inherit inputs pkgs;
-              modules = [
-                {
-                  # https://devenv.sh/reference/options/
-                  packages = with pkgs; [
-                    just
-                    lychee
-                    vale
-                    tomodachi94.packages.${system}.awesome-lint
-                  ];
-                }
+            default = pkgs.mkShellNoCC {
+              packages = with pkgs; [
+                just
+                lychee
+                vale
+                tomodachi94.packages.${system}.awesome-lint
               ];
             };
           });
