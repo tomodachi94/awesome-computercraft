@@ -3,6 +3,8 @@ name: Links
 on:
   repository_dispatch:
   workflow_dispatch:
+  pull_request:
+  push:
   schedule:
     - cron: "00 18 * * *"
 
@@ -15,11 +17,3 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1
-
-      - name: Create Issue From File
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
