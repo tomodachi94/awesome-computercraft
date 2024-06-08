@@ -90,7 +90,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [C3D](https://c3d.madefor.cc/) -  An advanced 3D rendering API.
 - [CC-Archive](https://github.com/MCJack123/CC-Archive) -  Various libraries for archiving and unarchiving files.
 - [dbprotect](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363) -  A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions.
-- [ecc.lua](https://www.computercraft.info/forums2/index.php?/topic/29803-) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). <!-- FIXME: Broken link -->
+- [ecc.lua](https://web.archive.org/web/20190808224502/http://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). <!-- FIXME: Broken link -->
 - [ecnet](https://github.com/migeyel/ecnet) -  Secure network communications in ComputerCraft.
 - [GuiH](https://guih.madefor.cc) -  A powerful GUI and graphics library.
 - [IsometriH](https://github.com/9551-Dev/IsometriH) -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
