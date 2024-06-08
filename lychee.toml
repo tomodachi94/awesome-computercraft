@@ -8,7 +8,7 @@ exclude = [
   '^https://www\.curseforge\.com',
   # Failed: Network error: Forbidden
   # (only broken in CI, presumably because of IP range blocks on server farm addresses)
-  '^https://www\.reddit\.com',
+  '^https://(www\.|)reddit\.com',
   # Failed: Network error: Not Found (see https://github.com/tomodachi94/awesome-computercraft/issues/32)
   '^http(s|)://(www\.|)computercraft\.info/forums2'
 ]
