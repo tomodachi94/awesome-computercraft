@@ -1,0 +1,14 @@
+# NOTE: Always add comments explaining why you're adding an entry.
+exclude = [
+  # Assumed to always work, and they already have enough load from backing up the entire Internet
+  # If this is offline, we have much bigger problems
+  '^https://web\.archive\.org/web/',
+  # Failed: Network error: Forbidden
+  # (probably because of User-Agent-based blocking)
+  '^https://www\.curseforge\.com',
+  # Failed: Network error: Forbidden
+  # (only broken in CI, presumably because of IP range blocks on server farm addresses)
+  '^https://www\.reddit\.com',
+  # Failed: Network error: Not Found (see https://github.com/tomodachi94/awesome-computercraft/issues/32)
+  '^http(s|)://(www\.|)computercraft\.info/forums2'
+]
