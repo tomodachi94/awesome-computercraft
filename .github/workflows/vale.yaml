@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
 jobs:
-  awesome-lint:
+  vale:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -13,5 +13,5 @@ jobs:
           extra_nix_config: |
             experimental-features = nix-command flakes
             accept-flake-config = true
-      - run: nix develop .# --command "just vale"
+      - run: nix develop .# --command just vale
         name: "Run the Vale linter"
