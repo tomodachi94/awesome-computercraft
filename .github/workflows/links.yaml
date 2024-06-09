@@ -9,7 +9,7 @@ on:
     - cron: "00 18 * * *"
 
 jobs:
-  linkChecker:
+  lychee:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

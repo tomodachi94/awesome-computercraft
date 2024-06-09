@@ -1,9 +1,9 @@
-name: Vale
+name: Checks
 on:
   pull_request:
   push:
 jobs:
-  vale:
+  checks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,3 +15,5 @@ jobs:
             accept-flake-config = true
       - run: nix develop .# --command just vale
         name: "Run the Vale linter"
+      - run: nix develop .# --command just awesome-lint
+        name: "Run the awesome-lint linter"
