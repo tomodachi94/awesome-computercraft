@@ -23,6 +23,6 @@ Option 1: [![Mentioned in Awesome ComputerCraft](https://awesome.re/mentioned-ba
 Option 2: [![Mentioned in Awesome ComputerCraft](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tomodachi94/awesome-computercraft)
 ```
 
-## I own something on this list and I want it delisted!
+## I own something on this list and I want it unlisted!
 
 Open an issue with proof that you own the item and we will happily remove it. Alternatively, if you want it to be removed extremely quickly, you can open a pull request in accordance with the [contribution guidelines](https://github.com/tomodachi94/awesome-computercraft/blob/main/CONTRIBUTING.md).
