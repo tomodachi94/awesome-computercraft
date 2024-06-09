@@ -17,6 +17,15 @@ _run-in-nix-shell cmd *args:
 awesome-lint:
     awesome-lint
 
+vale:
+    #!/usr/bin/env sh
+    set -exo pipefail
+    if [ -z "${VALE_STYLES_PATH}" ] && [ ! -d "./.vale/Google" ]; then
+        echo "Warning: Not checking Vale spelling, please use the Nix devshell if you want this"
+    else
+        vale *.md .**/*.md
+    fi
+
 check-links:
     lychee . \
       --format markdown \
@@ -25,6 +34,6 @@ check-links:
       --cache \
       --max-cache-age 1d
 
-check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links")
+check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale")
 
 

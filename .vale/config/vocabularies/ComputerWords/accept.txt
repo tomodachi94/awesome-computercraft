@@ -1,0 +1,17 @@
+WebSocket(|s|'s)
+filesystem(|s|'s)
+TypeScript
+modularity
+autocomplete
+PR(|s|'s)
+API(|s|'s)
+TSR(|s|'s)
+UI
+ChaCha
+HMAC
+SHA
+PBKDF
+unarchiving
+autocorrection
+tokenization
+Direnv

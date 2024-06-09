@@ -3,9 +3,13 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     systems.url = "github:nix-systems/default";
     tomodachi94.url = "github:tomodachi94/dotfiles?dir=pkgs";
+	vale-packages = {
+      url = "github:errata-ai/packages";
+      flake = false;
+	};
   };
 
-  outputs = { self, nixpkgs, tomodachi94, systems, ... } @ inputs:
+  outputs = { self, nixpkgs, tomodachi94, systems, vale-packages, ... } @ inputs:
     let
       forEachSystem = nixpkgs.lib.genAttrs (import systems);
     in
@@ -23,6 +27,10 @@
                 vale
                 tomodachi94.packages.${system}.awesome-lint
               ];
+			  shellHook = ''
+                rm -rf ./.vale/Google
+				ln -s ${vale-packages}/pkg/Google/Google ./.vale/Google
+			  '';
             };
           });
     };

@@ -36,7 +36,8 @@
       "inputs": {
         "nixpkgs": "nixpkgs",
         "systems": "systems",
-        "tomodachi94": "tomodachi94"
+        "tomodachi94": "tomodachi94",
+        "vale-packages": "vale-packages"
       }
     },
     "systems": {
@@ -71,6 +72,22 @@
         "dir": "pkgs",
         "owner": "tomodachi94",
         "repo": "dotfiles",
+        "type": "github"
+      }
+    },
+    "vale-packages": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1695254074,
+        "narHash": "sha256-BDBe+Ba49V+/Qc3jI1a9f5djvt8T3diWuv53f53uAns=",
+        "owner": "errata-ai",
+        "repo": "packages",
+        "rev": "74fb20b2572f4f04d06c2915beaf0d8714056fca",
+        "type": "github"
+      },
+      "original": {
+        "owner": "errata-ai",
+        "repo": "packages",
         "type": "github"
       }
     }
