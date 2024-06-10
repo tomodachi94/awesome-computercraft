@@ -35,8 +35,6 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Literature](#literature)
   - [Essays](#essays)
   - [Tutorials](#tutorials)
-    - [Basics](#basics)
-    - [Moderate or advanced](#moderate-or-advanced)
   - [Charts, tables, and calculators](#charts-tables-and-calculators)
   - [Other lists](#other-lists)
 - [Resources](#resources)

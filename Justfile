@@ -16,7 +16,23 @@ _run-in-nix-shell cmd *args:
     fi
 
 generate-toc:
-    doctoc ./README.md
+    doctoc \
+      --maxlevel 3 \
+      ./README.md
+
+check-toc:
+    #!/usr/bin/env sh
+    set -euxo pipefail
+    git stash
+    cleanup() {
+        git restore README.md --quiet
+        git stash pop --quiet
+    }
+    trap cleanup EXIT
+    doctoc \
+      --maxlevel 3 \
+      ./README.md
+    git diff --exit-code --quiet
 
 awesome-lint:
     awesome-lint
@@ -38,4 +54,4 @@ check-links:
       --cache \
       --max-cache-age 1d
 
-check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale")
+check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale") (_run-in-nix-shell "check-toc")
