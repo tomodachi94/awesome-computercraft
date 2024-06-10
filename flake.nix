@@ -26,6 +26,7 @@
                 lychee
                 vale
                 tomodachi94.packages.${system}.awesome-lint
+                tomodachi94.packages.${system}.doctoc
               ];
 			  shellHook = ''
                 rm -rf ./.vale/Google

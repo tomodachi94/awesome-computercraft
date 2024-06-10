@@ -1,5 +1,6 @@
-#! /usr/bin/env nix-shell
-#! nix-shell -i "just --justfile" -p just
+#! /usr/bin/env -S just --justfile
+
+set export := true
 
 in_nix_shell := env_var_or_default("IN_NIX_SHELL", "false")
 in_ci := env_var_or_default("GITHUB_ACTIONS", "false")
@@ -13,6 +14,9 @@ _run-in-nix-shell cmd *args:
     else
         just "{{ root_dir }}/{{ cmd }}" {{ args }}
     fi
+
+generate-toc:
+    doctoc ./README.md
 
 awesome-lint:
     awesome-lint
@@ -30,10 +34,8 @@ check-links:
     lychee . \
       --format markdown \
       --output "{{ temp_dir }}/report.md" \
-      --base "{{root_dir}}" \
+      --base "{{ root_dir }}" \
       --cache \
       --max-cache-age 1d
 
 check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale")
-
-

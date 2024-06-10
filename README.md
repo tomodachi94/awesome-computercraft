@@ -13,7 +13,9 @@ This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercr
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 
 ## Contents
-<!-- TOC -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [Mods](#mods)
   - [ComputerCraft mods](#computercraft-mods)
   - [Add-on mods](#add-on-mods)
@@ -33,10 +35,13 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Literature](#literature)
   - [Essays](#essays)
   - [Tutorials](#tutorials)
+    - [Basics](#basics)
+    - [Moderate or advanced](#moderate-or-advanced)
   - [Charts, tables, and calculators](#charts-tables-and-calculators)
   - [Other lists](#other-lists)
 - [Resources](#resources)
-<!-- /TOC -->
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Mods
 ### ComputerCraft mods
