@@ -14,6 +14,8 @@ jobs:
             experimental-features = nix-command flakes
             accept-flake-config = true
       - uses: DeterminateSystems/magic-nix-cache-action@7f56db3553dc65c9ad85259996828b6bede3a1fb
+      - run: "nix develop .#"
+        name: "Prefetch CI dependencies"
       - run: nix develop .# --command just vale
         name: "Run the Vale linter"
       - run: nix develop .# --command just awesome-lint
