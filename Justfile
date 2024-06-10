@@ -26,7 +26,7 @@ check-toc:
     git stash
     cleanup() {
         git restore README.md --quiet
-        git stash pop --quiet
+        git stash pop --quiet || echo "no local changes to restore"
     }
     trap cleanup EXIT
     doctoc \
