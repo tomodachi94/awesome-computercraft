@@ -61,11 +61,11 @@
       },
       "locked": {
         "dir": "pkgs",
-        "lastModified": 1717874711,
-        "narHash": "sha256-gGbzqCZ22L/htg0bhU40t81k1KBT5TpLdNPyi0ySIDQ=",
+        "lastModified": 1717984974,
+        "narHash": "sha256-71xegmuzLAR7xOH5B4oOwt665VthBb9+my4zl8/A8to=",
         "owner": "tomodachi94",
         "repo": "dotfiles",
-        "rev": "7011e919dca148c08fc5c23e6b5f677207f305a8",
+        "rev": "2595501fc4e0d5a6450407eefcca120d800fce4a",
         "type": "github"
       },
       "original": {
