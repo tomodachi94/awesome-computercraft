@@ -34,11 +34,11 @@ For all list items, follow this format:
 - [My Awesome Thing](https://example.com) - An awesome thing for ComputerCraft.
 ```
 
-The attached link should be the *best link available*. Prefer homepages to Pastebin uploads.`
+The attached link should be the *best link available*. Prefer homepages to Pastebin uploads.
 
 ### Table of contents
 
-A Table of Contents should be updated by the [*Marky Dynamic* extension](https://marketplace.visualstudio.com/items?itemName=robole.marky-dynamic) for VSCode. Manually remove the "Contents" and "Footnotes" sections.
+The table of contents is updated by the [DocToc](https://github.com/thlorenz/doctoc) tool.
 
 ### Reorganization of the list
 
@@ -54,6 +54,7 @@ Various checks are executed with GitHub Actions for quality assurance:
 * The [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) project is executed to ensure that the standards set by the upstream Awesome list are upheld.
 * The [Lychee](https://lychee.cli.rs/introduction/) link checker is executed to ensure that all links in the repository are valid.
 * The [Vale](https://vale.sh) prose linter is executed to ensure a consistent style in the repository.
+* The [DocToc](https://github.com/thlorenz/doctoc) tool is executed, and the pipeline fails if changes are not committed.
 
 To run the checks locally, you can install the tools manually (not recommended), or use this workflow:
 * [Install Nix](https://nixos.org).
