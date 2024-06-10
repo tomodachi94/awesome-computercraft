@@ -46,7 +46,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [ComputerCraft: Tweaked](https://computercraft.cc) -  A fork of the original ComputerCraft for modern versions of Minecraft.
 - [ComputerCraft: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) -  A set of patches for CC:T that allow running it on Fabric. 
-- [ComputerCraft](http://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 
+- [ComputerCraft](https://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 
 
 ### Add-on mods
 
@@ -125,7 +125,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Operating systems
 
-- [LevelOS](http://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
+- [LevelOS](https://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
 - [Opus](https://github.com/kepler155c/opus) -  An OS which includes a GUI, an app store, and many system-related APIs.
 - [Phoenix](https://phoenix.madefor.cc) -  An OS which emphasizes modularity. It implements its own kernel.
     - Phoenix is currently in alpha.
