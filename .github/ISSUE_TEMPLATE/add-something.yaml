@@ -1,0 +1,73 @@
+name: New item suggestion
+description: Suggest new additions to the list!
+labels: ["new addition"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest a new addition!
+        Please submit this form once per suggestion, unless they are closely related.
+  - type: textarea
+    id: name
+    attributes:
+      label: What is the name of the thing you want added?
+      placeholder: a project's name
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summarize what the thing is or does.
+      placeholder: Celeste port to ComputerCraft, FTP client for ComputerCraft, package manager for ComputerCraft, guide for ComputerCraft, ...
+    validations:
+      required: true
+  - type: textarea
+    id: url
+    attributes:
+      label: Where is the thing located on the Internet?
+      description: Please provide the most descriptive URL. URLs should be accessible without having to log in somewhere.
+      placeholder: https://example.com, https://pastebin.com/..., https://github.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: What category does the project fit best in?
+      options:
+        - Mods
+        - Lua programs
+        - Non-Lua programs
+        - Literature
+        - Resources
+        - Something else
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: submitter-is-author
+    attributes:
+      label: Are you the author of this thing?
+      description: It's okay if you are! This is purely for transparency.
+      options:
+        - No, I am not the author of this thing.
+        - Yes, I am the author of this thing.
+      default: 0
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: is-awesome
+    attributes:
+      label: Do you think the thing is awesome?
+      description: '"Awesome" generally means whatever you want it to. The items already on the list are unique or particularly useful for their category.'
+      options:
+        - label: Yes, this is awesome
+          required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/tomodachi94/awesome-computercraft/blob/main/CODE_OF_CONDUCT.md). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
