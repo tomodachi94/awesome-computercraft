@@ -1,0 +1,7 @@
+/.github/CODEOWNERS @tomodachi94
+
+# CI pipelines
+/.github/workflows @tomodachi94
+/flake.nix @tomodachi94
+/flake.lock @tomodachi94
+/Justfile
