@@ -5,7 +5,7 @@ Contributions and suggestions are always welcome!
 
 ## Conduct
 
-This project uses the Contributor Covenant Code of Conduct. Please see [the full text](./CONTRIBUTING.md) for more information, including for methods to report violations.
+This project uses the Contributor Covenant Code of Conduct. Please see [the full text](./CODE_OF_CONDUCT.md) for more information, including for methods to report violations.
 
 ## Inclusion criteria
 
