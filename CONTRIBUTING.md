@@ -77,3 +77,9 @@ Fix [typo|dead link|<error type>]
 ```
 
 However, do what makes the most sense.
+
+## Repository settings
+
+Repository settings (such as the repository's labels, description, and even its name) can be changed by submitting a PR to the `.github/settings.yml` file. Contributions are encouraged if you think these things could be improved.
+
+For a list of valid options, please see [its documentation](https://probot.github.io/apps/settings/)
