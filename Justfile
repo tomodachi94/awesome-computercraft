@@ -50,6 +50,11 @@ vale:
         vale *.md .**/*.md
     fi
 
+check-reuse:
+    #!/usr/bin/env sh
+    set -euxo pipefail
+    reuse lint
+
 check-links:
     lychee . \
       --format markdown \
@@ -58,4 +63,4 @@ check-links:
       --cache \
       --max-cache-age 1d
 
-check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale") (_run-in-nix-shell "check-toc")
+check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale") (_run-in-nix-shell "check-toc") (_run-in-nix-shell "check-reuse")
