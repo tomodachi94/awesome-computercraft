@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Tomodachi94
+#
+# SPDX-License-Identifier: MIT
+
 version: 2
 updates:
   - package-ecosystem: "github-actions"

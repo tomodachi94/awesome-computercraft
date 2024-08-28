@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Tomodachi94
+#
+# SPDX-License-Identifier: MIT
+
 name: Checks
 on:
   pull_request:

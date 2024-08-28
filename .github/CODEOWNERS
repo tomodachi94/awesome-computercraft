@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
 # Prevent hypothetical privilege escalation (push access would otherwise equal admin access)
 /.github/CODEOWNERS @tomodachi94
 /.github/settings.yml @tomodachi94

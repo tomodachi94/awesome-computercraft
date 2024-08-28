@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -26,6 +30,7 @@
                 lychee
                 vale
 				doctoc
+				reuse
                 tomodachi94.packages.${system}.awesome-lint
               ];
 			  shellHook = ''

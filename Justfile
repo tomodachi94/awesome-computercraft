@@ -1,5 +1,9 @@
 #! /usr/bin/env -S just --justfile
 
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
 set export := true
 
 in_nix_shell := env_var_or_default("IN_NIX_SHELL", "false")
