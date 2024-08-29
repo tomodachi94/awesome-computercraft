@@ -24,5 +24,7 @@ jobs:
         name: "Run the Vale linter"
       - run: nix develop .# --command just awesome-lint
         name: "Run the awesome-lint linter"
+      - run: nix develop .# --command just check-reuse
+        name: "Run the REUSE linting tool"
       - run: nix develop .# --command just check-toc
         name: "Run DocToc and fail if any changes are present"
