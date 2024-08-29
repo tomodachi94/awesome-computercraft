@@ -1,9 +1,10 @@
+<!--lint disable double-link-->
 <!--
 SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-
+<!--lint enable double-link-->
 <!--lint ignore-->
 
 # Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
