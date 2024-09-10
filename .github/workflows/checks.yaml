@@ -17,7 +17,7 @@ jobs:
           extra_nix_config: |
             experimental-features = nix-command flakes
             accept-flake-config = true
-      - uses: DeterminateSystems/magic-nix-cache-action@9d627e84ffc84ff31aeb74e679591ad03a122c24
+      - uses: DeterminateSystems/magic-nix-cache-action@87b14cf437d03d37989d87f0fa5ce4f5dc1a330b
       - run: "nix develop .#"
         name: "Prefetch CI dependencies"
       - run: nix develop .# --command just vale
