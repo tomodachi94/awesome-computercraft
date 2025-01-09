@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Coraline Ada Ehmke and contributors (https://github.com/EthicalSource/contributor_covenant/commits/release/content/version/2/0/code_of_conduct.md)
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

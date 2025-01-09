@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Tomodachi94
+#
+# SPDX-License-Identifier: MIT
+
 name: Checks
 on:
   pull_request:
@@ -8,17 +12,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install Nix
-        uses: cachix/install-nix-action@V27
+        uses: cachix/install-nix-action@v30
         with:
           extra_nix_config: |
             experimental-features = nix-command flakes
             accept-flake-config = true
-      - uses: DeterminateSystems/magic-nix-cache-action@7f56db3553dc65c9ad85259996828b6bede3a1fb
+      - uses: DeterminateSystems/magic-nix-cache-action@87b14cf437d03d37989d87f0fa5ce4f5dc1a330b
       - run: "nix develop .#"
         name: "Prefetch CI dependencies"
       - run: nix develop .# --command just vale
         name: "Run the Vale linter"
       - run: nix develop .# --command just awesome-lint
         name: "Run the awesome-lint linter"
+      - run: nix develop .# --command just check-reuse
+        name: "Run the REUSE linting tool"
       - run: nix develop .# --command just check-toc
         name: "Run DocToc and fail if any changes are present"

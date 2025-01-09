@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Contribution guidelines
 <!-- vale Google.Exclamation = NO -->
 Contributions and suggestions are always welcome!
@@ -5,7 +11,7 @@ Contributions and suggestions are always welcome!
 
 ## Conduct
 
-This project uses the Contributor Covenant Code of Conduct. Please see [the full text](./CONTRIBUTING.md) for more information, including for methods to report violations.
+This project uses the Contributor Covenant Code of Conduct. Please see [the full text](./CODE_OF_CONDUCT.md) for more information, including for methods to report violations.
 
 ## Inclusion criteria
 
@@ -77,3 +83,9 @@ Fix [typo|dead link|<error type>]
 ```
 
 However, do what makes the most sense.
+
+## Repository settings
+
+Repository settings (such as the repository's labels, description, and even its name) can be changed by submitting a PR to the `.github/settings.yml` file. Contributions are encouraged if you think these things could be improved.
+
+For a list of valid options, please see [its documentation](https://probot.github.io/apps/settings/)

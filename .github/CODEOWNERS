@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
+# Prevent hypothetical privilege escalation (push access would otherwise equal admin access)
+/.github/CODEOWNERS @tomodachi94
+/.github/settings.yml @tomodachi94
+
+# CI pipelines
+/.github/workflows @tomodachi94
+/flake.nix @tomodachi94
+/flake.lock @tomodachi94
+/Justfile

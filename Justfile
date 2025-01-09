@@ -1,5 +1,9 @@
 #! /usr/bin/env -S just --justfile
 
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
 set export := true
 
 in_nix_shell := env_var_or_default("IN_NIX_SHELL", "false")
@@ -46,6 +50,11 @@ vale:
         vale *.md .**/*.md
     fi
 
+check-reuse:
+    #!/usr/bin/env sh
+    set -euxo pipefail
+    reuse lint
+
 check-links:
     lychee . \
       --format markdown \
@@ -54,4 +63,4 @@ check-links:
       --cache \
       --max-cache-age 1d
 
-check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale") (_run-in-nix-shell "check-toc")
+check: (_run-in-nix-shell "awesome-lint") (_run-in-nix-shell "check-links") (_run-in-nix-shell "vale") (_run-in-nix-shell "check-toc") (_run-in-nix-shell "check-reuse")

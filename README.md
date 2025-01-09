@@ -1,14 +1,26 @@
+<!--lint disable double-link-->
+<!--
+SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+<!--lint enable double-link-->
 <!--lint ignore-->
 
 # Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
 
-> Useful libraries, programs, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
+> Useful programs, libraries, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites. If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md). If you have other questions, see the [FAQ](./FAQ.md).
+This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites.
+
+If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose).
+
+If you want to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
+If you have other questions, see the [FAQ](./FAQ.md).
 
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 
@@ -46,18 +58,21 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### ComputerCraft mods
 
-- [ComputerCraft: Tweaked](https://computercraft.cc) - A fork of the original ComputerCraft for modern versions of Minecraft.
-- [ComputerCraft: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) - A set of patches for CC:T that allow running it on Fabric.
-- [ComputerCraft](http://computercraft.info) - A mod which adds computers to allow execution of Lua programs.
+- [ComputerCraft: Tweaked](https://computercraft.cc) -  A fork of the original ComputerCraft for modern versions of Minecraft.
+- [ComputerCraft: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) -  A set of patches for CC:T that allow running it on Fabric. 
+- [ComputerCraft](https://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 
 
 ### Add-on mods
 
-- [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) - A mod which adds various peripherals and APIs for interacting with other mods.
-- [Computronics](https://wiki.vexatos.com/wiki:computronics) - A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound.
-- [Plethora](https://plethora.madefor.cc) - A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
+- [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) -  A mod which adds various peripherals and APIs for interacting with other mods. 
+- [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
+- [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
+    - [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) - A 1.19+ port of Plethora to Fabric.
 - [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
+- [sc-peripherals](https://github.com/SwitchCraftCC/sc-peripherals) - A mod that adds 3D printers which allow creating custom blocks and posters.
 - [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 - [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
+- [Roadworks](https://github.com/znepb/Roadworks) - A mod that adds traffic lights controllable by ComputerCraft.
 
 ### Resource packs
 
@@ -86,6 +101,16 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [Acidity](https://github.com/9551-Dev/acidity) - A simple procedual world generation-oriented noise generation library.
 - [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) - Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
+- [rawshell](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc) -  A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more.
+- [ShrekPrint](https://pinestore.cc/projects/115/shrekprint) - Printing software with full color and book support.
+- [ShrekWord](https://pinestore.cc/projects/114/shrekword) - Word-like document editor.
+- [unicornpkg](https://unicornpkg.madefor.cc) -  Modern package management that doesn't suck.
+- [FSEncrypt](https://gist.github.com/MCJack123/32c56917dc61da336ec0e8ca6aae39f8) -  Transparent filesystem encryption.
+
+### Library
+
+- [Acidity](https://github.com/9551-Dev/acidity) -  A simple procedual world generation-oriented noise generation library.
+- [Anavrins' ChaCha20](https://web.archive.org/web/20200924232302/http://www.computercraft.info/forums2/index.php?/topic/25474-chacha20-encryption-in-computercraft/) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
 - Anavrins' hashing libraries:
   - [MD5](https://pastebin.com/6PVSRckQ) - Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
   - [SHA-1](https://pastebin.com/SfL7vxP3) - Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) with [HMAC](https://en.wikipedia.org/wiki/HMAC) support.
@@ -144,13 +169,16 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Economy
 
+- [`colorful.kst`](https://github.com/znepb/colorful) - A Krist store which sells colorful blocks, coloring them on demand.
 - [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft, powered by [Basalt](https://basalt.madefor.cc).
 - [Radon](https://github.com/Allymonies/Radon) - Highly-configurable Krist shop, complete with layouts, hooks, and more.
-- [msks](https://github.com/MasonGulu/msks) - A modern, simple shop for the Krist virtual currency.
+- [LP](https://github.com/migeyel/lp) - A Krist shop which dynamically adjusts buy and sell prices based on supply and demand.
+- [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
+- [printshop](https://github.com/znepb/printshop) - A Krist shop which sells 3D prints and posters, also allowing players to print their own designs.
 
 ### Mod-specific programs
 
-> Note: This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
+> Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
 - [DraconicControl](https://pastebin.com/UqVHTht5) - Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) - Automatic management of reactors and turbines in Big Reactors.

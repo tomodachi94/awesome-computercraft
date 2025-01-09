@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 This document links to online discussion about `awesome-computercraft`.
 
 - Reddit: [`awesome-computercraft`: An Awesome list for ComputerCraft](https://www.reddit.com/r/ComputerCraft/comments/yxh7rt)

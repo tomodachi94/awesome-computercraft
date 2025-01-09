@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[[annotations]]
+path = [
+    "flake.lock",
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"

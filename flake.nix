@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
+#
+# SPDX-License-Identifier: MIT
+
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -25,8 +29,9 @@
                 just
                 lychee
                 vale
+				doctoc
+				reuse
                 tomodachi94.packages.${system}.awesome-lint
-                tomodachi94.packages.${system}.doctoc
               ];
 			  shellHook = ''
                 rm -rf ./.vale/Google
