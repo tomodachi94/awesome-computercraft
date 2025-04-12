@@ -270,7 +270,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ## Resources
 
 - [`tweaked.cc` documentation](https://tweaked.cc) - Contains documentation for most methods in CC and CC:T.
-- [CC's forums](https://computercraft.info/forums2) - An extremely valuable resource, filled with tutorials and programs. <!-- FIXME: Broken link -->
+- [CC's forums (archived)](https://ccf.squiddev.cc/) - An extremely valuable resource, filled with tutorials and programs.
+  - This is an archive taken in April 2020 of the original forums. It is hosted by SquidDev.
 - [CC:T's forums](https://forums.computercraft.cc) - Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe) - A Discord server for getting help with programming in CC and CC:T.
 - [ComputerCraft's subreddit](https://reddit.com/r/computercraft) - A subreddit for showing off your ComputerCraft creations, as well as getting help.
