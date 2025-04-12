@@ -79,13 +79,16 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ## Lua programs
 ### Utility
 
+- [Artist](https://github.com/SquidDev-CC/artist) -  One of the first item management systems for ComputerCraft.
 - [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft. 
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
+- [`hopper.lua`](https://github.com/umnikos/hopper.lua) - A command-line program for moving items between containers.
 - [GEMU](https://github.com/9551-Dev/GEMU) -  CraftOS-PC graphics mode emulator based on Pixelbox.
 - [`gist`](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
 - [Howl](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
 - [LuaIDE](https://web.archive.org/web/20230211195528/http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/) -  A full-fledged IDE for editing Lua files in-game.
+- [MISC](https://github.com/ShreksHellraiser/CC-MISC) -  Modular Inventory Storage and Crafting.
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
 - [ModemShark](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8) -  Modem packet sniffer with a simple UI.
 - [netshell](https://github.com/lyqyd/cc-netshell) -  Access a computer's shell from another computer.
@@ -157,6 +160,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [LP](https://github.com/migeyel/lp) - A Krist shop which dynamically adjusts buy and sell prices based on supply and demand.
 - [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
 - [printshop](https://github.com/znepb/printshop) - A Krist shop which sells 3D prints and posters, also allowing players to print their own designs.
+- [Radon](https://github.com/Allymonies/Radon) - A highly configurable Krist shop, supporting categories, nameless shops, and support for multiple currencies.
 
 ### Mod-specific programs
 
@@ -166,6 +170,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
     - [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
 - [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) - Configurable control system for Mekanism fission reactors.
+- [`shrekflight`](https://p.sc3.io/t6ZRrJutrN) - A program which provides Creative Mode-like flight and automatic flight to specified coordinates.
 
 ## Non-Lua programs
 
@@ -201,6 +206,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [ComputerCraft Music Converter](https://music.madefor.cc) - A web app to convert various sound formats to DFPWM (ComputerCraft's sound format).
 - [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG format.
 - [`cc-tstl-template`](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
+- [Quartz Encoder](https://cc.alexdevs.me/index.html) - An API to convert links to audio files into DFPWM and MDFPWM.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
 
 ## Literature
