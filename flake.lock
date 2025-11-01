@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1751285371,
-        "narHash": "sha256-/hDU+2AUeFFu5qGHO/UyFMc4UG/x5Cw5uXO36KGTk6c=",
+        "lastModified": 1761880412,
+        "narHash": "sha256-QoJjGd4NstnyOG4mm4KXF+weBzA2AH/7gn1Pmpfcb0A=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b9c03fbbaf84d85bb28eee530c7e9edc4021ca1b",
+        "rev": "a7fc11be66bdfb5cdde611ee5ce381c183da8386",
         "type": "github"
       },
       "original": {
@@ -61,11 +61,11 @@
       },
       "locked": {
         "dir": "pkgs",
-        "lastModified": 1733810522,
-        "narHash": "sha256-kNEvl0j5iNGSTnqYELJ2oVGB9KWTl8jn91hwRKstHU8=",
+        "lastModified": 1757289555,
+        "narHash": "sha256-VkPVKj/L+J60XyN5Cyyr89GorBj+CxkPXvN4WzrohKs=",
         "owner": "tomodachi94",
         "repo": "dotfiles",
-        "rev": "15d53385ee07877cf894f0e348895c91961e4e39",
+        "rev": "6ec11d998e14b940ac9041f1dfb9e0cf269565fc",
         "type": "github"
       },
       "original": {
@@ -78,11 +78,11 @@
     "vale-packages": {
       "flake": false,
       "locked": {
-        "lastModified": 1732235668,
-        "narHash": "sha256-QXt6Gi2wo/bPQBLAtcEhTIfBQYnGWEgsbSpToSkre5o=",
+        "lastModified": 1761220905,
+        "narHash": "sha256-pf9BBXvgppLLqeEpin/raT6hFV6nNaeBBBCBCVZdiIk=",
         "owner": "errata-ai",
         "repo": "packages",
-        "rev": "c5042ee0a465566952cb21a775fc8a62b4afe5ed",
+        "rev": "4ee7c9ce9a3bab4ab7aadba9cd0c69f122a77f87",
         "type": "github"
       },
       "original": {
