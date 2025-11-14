@@ -16,27 +16,10 @@
         "type": "github"
       }
     },
-    "nixpkgs_2": {
-      "locked": {
-        "lastModified": 1726745986,
-        "narHash": "sha256-xB35C2fpz7iyNcj9sn0a+wM2C4CQ6DGTn5VUHogstYs=",
-        "owner": "nixos",
-        "repo": "nixpkgs",
-        "rev": "268bb5090a3c6ac5e1615b38542a868b52ef8088",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "ref": "nixpkgs-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
     "root": {
       "inputs": {
         "nixpkgs": "nixpkgs",
         "systems": "systems",
-        "tomodachi94": "tomodachi94",
         "vale-packages": "vale-packages"
       }
     },
@@ -52,26 +35,6 @@
       "original": {
         "owner": "nix-systems",
         "repo": "default",
-        "type": "github"
-      }
-    },
-    "tomodachi94": {
-      "inputs": {
-        "nixpkgs": "nixpkgs_2"
-      },
-      "locked": {
-        "dir": "pkgs",
-        "lastModified": 1733810522,
-        "narHash": "sha256-kNEvl0j5iNGSTnqYELJ2oVGB9KWTl8jn91hwRKstHU8=",
-        "owner": "tomodachi94",
-        "repo": "dotfiles",
-        "rev": "15d53385ee07877cf894f0e348895c91961e4e39",
-        "type": "github"
-      },
-      "original": {
-        "dir": "pkgs",
-        "owner": "tomodachi94",
-        "repo": "dotfiles",
         "type": "github"
       }
     },

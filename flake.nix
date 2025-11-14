@@ -6,7 +6,6 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     systems.url = "github:nix-systems/default";
-    tomodachi94.url = "github:tomodachi94/dotfiles?dir=pkgs";
     vale-packages = {
       url = "github:errata-ai/packages";
       flake = false;
@@ -17,7 +16,6 @@
     {
       self,
       nixpkgs,
-      tomodachi94,
       systems,
       vale-packages,
       ...
@@ -39,7 +37,7 @@
               vale
               doctoc
               reuse
-              tomodachi94.packages.${system}.awesome-lint
+              nodePackages_latest.awesome-lint
             ];
             shellHook = ''
               rm -rf ./.vale/Google
@@ -49,14 +47,4 @@
         }
       );
     };
-  nixConfig = {
-    trusted-substituters = [
-      "https://cache.nixos.org"
-      "https://tomodachi94.cachix.org"
-    ];
-    trusted-public-keys = [
-      "cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY="
-      "tomodachi94.cachix.org-1:E1WFk+SYPtq3FFO+NvDgsyciIHg8nHxB/z7qNfojxpI="
-    ];
-  };
 }
