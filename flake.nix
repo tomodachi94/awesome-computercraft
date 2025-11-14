@@ -7,38 +7,47 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     systems.url = "github:nix-systems/default";
     tomodachi94.url = "github:tomodachi94/dotfiles?dir=pkgs";
-	vale-packages = {
+    vale-packages = {
       url = "github:errata-ai/packages";
       flake = false;
-	};
+    };
   };
 
-  outputs = { self, nixpkgs, tomodachi94, systems, vale-packages, ... } @ inputs:
+  outputs =
+    {
+      self,
+      nixpkgs,
+      tomodachi94,
+      systems,
+      vale-packages,
+      ...
+    }@inputs:
     let
       forEachSystem = nixpkgs.lib.genAttrs (import systems);
     in
     {
-      devShells = forEachSystem
-        (system:
-          let
-            pkgs = nixpkgs.legacyPackages.${system};
-          in
-          {
-            default = pkgs.mkShellNoCC {
-              packages = with pkgs; [
-                just
-                lychee
-                vale
-				doctoc
-				reuse
-                tomodachi94.packages.${system}.awesome-lint
-              ];
-			  shellHook = ''
-                rm -rf ./.vale/Google
-				ln -s ${vale-packages}/pkg/Google/Google ./.vale/Google
-			  '';
-            };
-          });
+      devShells = forEachSystem (
+        system:
+        let
+          pkgs = nixpkgs.legacyPackages.${system};
+        in
+        {
+          default = pkgs.mkShellNoCC {
+            packages = with pkgs; [
+              just
+              lychee
+              vale
+              doctoc
+              reuse
+              tomodachi94.packages.${system}.awesome-lint
+            ];
+            shellHook = ''
+              rm -rf ./.vale/Google
+              ln -s ${vale-packages}/pkg/Google/Google ./.vale/Google
+            '';
+          };
+        }
+      );
     };
   nixConfig = {
     trusted-substituters = [
