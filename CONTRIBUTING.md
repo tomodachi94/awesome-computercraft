@@ -60,7 +60,7 @@ Please use American spelling unless it is a part of a name. Please keep item des
 
 Various checks are executed with GitHub Actions for quality assurance:
 * The [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) project is executed to ensure that the standards set by the upstream Awesome list are upheld.
-* The [Lychee](https://lychee.cli.rs/introduction/) link checker is executed to ensure that all links in the repository are valid.
+* The [Lychee](https://lychee.cli.rs) link checker is executed to ensure that all links in the repository are valid.
 * The [Vale](https://vale.sh) prose linter is executed to ensure a consistent style in the repository.
 * The [DocToc](https://github.com/thlorenz/doctoc) tool is executed, and the pipeline fails if changes are not committed.
 
