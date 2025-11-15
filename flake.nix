@@ -37,7 +37,7 @@
               vale
               doctoc
               reuse
-              nodePackages_latest.awesome-lint
+              nodePackages.awesome-lint
             ];
             shellHook = ''
               rm -rf ./.vale/Google
