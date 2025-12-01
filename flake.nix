@@ -6,6 +6,11 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     systems.url = "github:nix-systems/default";
+    awesome-lint = {
+      url = "github:tomodachi94/awesome-lint.nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+      inputs.systems.follows = "systems";
+    };
     vale-packages = {
       url = "github:errata-ai/packages";
       flake = false;
@@ -17,6 +22,7 @@
       self,
       nixpkgs,
       systems,
+      awesome-lint,
       vale-packages,
       ...
     }@inputs:
@@ -31,13 +37,13 @@
         in
         {
           default = pkgs.mkShellNoCC {
-            packages = with pkgs; [
-              just
-              lychee
-              vale
-              doctoc
-              reuse
-              nodePackages.awesome-lint
+            packages = [
+              pkgs.just
+              pkgs.lychee
+              pkgs.vale
+              pkgs.doctoc
+              pkgs.reuse
+              awesome-lint.packages.${system}.awesome-lint
             ];
             shellHook = ''
               rm -rf ./.vale/Google

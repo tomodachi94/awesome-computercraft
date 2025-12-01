@@ -1,5 +1,28 @@
 {
   "nodes": {
+    "awesome-lint": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "systems": [
+          "systems"
+        ]
+      },
+      "locked": {
+        "lastModified": 1764611393,
+        "narHash": "sha256-vvAlyH57CTXQh5PhkKLyOI7TKEbzxbacAC357G/Y+x0=",
+        "owner": "tomodachi94",
+        "repo": "awesome-lint.nix",
+        "rev": "01fb2dea3ba95a1bb159d09e1fc817adca63fb23",
+        "type": "github"
+      },
+      "original": {
+        "owner": "tomodachi94",
+        "repo": "awesome-lint.nix",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1764527385,
@@ -18,6 +41,7 @@
     },
     "root": {
       "inputs": {
+        "awesome-lint": "awesome-lint",
         "nixpkgs": "nixpkgs",
         "systems": "systems",
         "vale-packages": "vale-packages"
