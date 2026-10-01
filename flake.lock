@@ -25,11 +25,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1767210689,
-        "narHash": "sha256-7NdUf2AJXd1eg+AzcNfrh4A5e60eNELK9AeSW6Xi/A8=",
+        "lastModified": 1790652569,
+        "narHash": "sha256-641r7xrlSOHYoktL9/aArPIYNgZJ9eM5URzSEOtPJDY=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "fe575ad78fa6df638340aa673ea84709c5bd5da0",
+        "rev": "b6c8664de9b6cc07fe5666a29f91884ba81197c4",
         "type": "github"
       },
       "original": {
@@ -65,11 +65,11 @@
     "vale-packages": {
       "flake": false,
       "locked": {
-        "lastModified": 1761220905,
-        "narHash": "sha256-pf9BBXvgppLLqeEpin/raT6hFV6nNaeBBBCBCVZdiIk=",
+        "lastModified": 1790635288,
+        "narHash": "sha256-S96CBYG12mhvJ7r8UKPhe89pvvaEDkYfAfQOtupOa/g=",
         "owner": "errata-ai",
         "repo": "packages",
-        "rev": "4ee7c9ce9a3bab4ab7aadba9cd0c69f122a77f87",
+        "rev": "35e3980ab7f6781416a678bee0dd9fd03ed1c426",
         "type": "github"
       },
       "original": {
